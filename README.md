@@ -25,3 +25,13 @@ If you have a question about using Jekyll, start a discussion on the [Jekyll For
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
 - [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+
+## Customization
+- Page is based on template at [https://github.com/mmistakes/mm-github-pages-starter](https://mmistakes.github.io/mm-github-pages-starter/)
+- [Documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- Not all theme files are included in the repo directly but are used from the Gem. To make changes on these files, copy them from [here](https://github.com/mmistakes/minimal-mistakes) to the repo and Jekyll will prefer the local copy
+- `academicicons.css` (contains Google Scholar icon) stylesheet included by adding it to `_includes/custom.html`
+- Typography reverted back to older versions by adding stylesheets referencing fonts in `_includes/custom.html` and overriding SASS variables from `_sass/minimal-mistakes/_variables.scss` in `assets/css/main.scss` before `@import` statements (Instructions [here](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/))
+- Changed font size and family of sidebar (and more) by overriding CSS statements from `_sass/minimal-mistakes/_sidebar.scss` in `assets/css/main.scss` after `@import` statements
+- Adjusted `_includes/seo.html` such that the title of the landing page (Recent posts, defined in `index.html`) does not contain redundant parts (i.e. `Matthiasmunz.de - Matthiasmunz.de` becomes `Matthiasmunz.de`)

@@ -1,0 +1,65 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+
+/*
+   Typography
+   ========================================================================== */
+$serif              : "PT Serif", Georgia, Times, serif;
+$sans-serif         : "PT Sans", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
+$caption-font-family: $serif;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+/*
+   Author profile, sidebar and links
+   ========================================================================== */
+.sidebar {
+   @include breakpoint($large) {
+
+    &.sticky {
+      max-height: calc(150vh - #{$nav-height} - 1em); // 100vh, 2em
+    }
+  }
+
+   p, li {
+      font-family: $serif; // $sans-serif
+      font-size: $type-size-8; // $type-size-6;
+      line-height: 1; // 1.5
+   }
+
+   p {
+      font-style: italic;
+   }
+}
+
+.author__avatar img {
+    max-width: 150px;
+    border-radius: 50%;
+}
+
+.adj-academicicons {
+   text-align: center;
+   width: 1.25em;
+}
+
+
+/*
+   Other
+   ========================================================================== */
+.cv-pics {
+    margin: 0 auto;
+    display: block;
+    max-width:100px;
+    height:auto;
+}

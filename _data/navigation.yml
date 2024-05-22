@@ -1,9 +1,15 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publications/
+  - title: "Climbing"
+    url: /climbing/
+  - title: "Cycling"
+    url: /cycling/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/

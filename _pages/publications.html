@@ -1,0 +1,52 @@
+---
+permalink: /publications/
+title: My publications
+---
+
+{% assign total_pubs = 0 %}
+{% assign first_authorships = 0 %}
+{% assign shared_first_authorships = 0 %}
+{% for y in site.data.publications %}
+  {% for p in y.publications %}
+    {% assign total_pubs = total_pubs | plus: 1 %}
+    {% if p.authors contains "<b>Munz M</b><sup>*</sup>" %}
+      {% assign shared_first_authorships = shared_first_authorships | plus: 1 %}
+    {% endif %}
+    {% assign checkArray = p.authors | split:"<b>Munz M</b>" %}
+    {% if checkArray[0] == blank or p.authors contains "<b>Munz M</b><sup>*</sup>" %}
+      {% assign first_authorships = first_authorships | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+To date, Matthias authors <strong>{{ total_pubs }}</strong> scientific publications, <strong>{{ first_authorships }}</strong> of them as first author (including <strong>{{ shared_first_authorships }}</strong> shared first authorships, marked below with an asterisk). A complete list of publications including conference posters and talks is available <a href="{{ site.baseurl }}/assets/pdfs/publications.pdf">here</a>.
+
+<ul class="taxonomy__index">
+  {% for y in site.data.publications %}
+    <li>
+      <a href="#{{ y.year }}" style="text-decoration:none">
+        <strong>{{ y.year }}</strong> <span class="taxonomy__count">{{ y.publications.size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% for y in site.data.publications %}
+ <section id="{{ y.year }}" class="taxonomy__section">
+  <h2>{{ y.year }}</h2>
+  {% for p in y.publications %}
+    {% if forloop.first %}<ul>{% endif %}
+      <li>{{ p.authors }}
+        {% if y.year != "Under review" %} ({{ y.year }}){% endif %}
+        {% if p.title %} {{ p.title }}{% endif %}
+        {% if p.journal %} <i>{{ p.journal }}</i>{% endif %}
+        {% if p.biorxiv and p.biorxiv_link%} <a href="{{ p.biorxiv_link }}" target="_blank">bioRxiv: {{ p.biorxiv }}</a>{% endif %}
+        {% if p.medrxiv and p.medrxiv_link%} <a href="{{ p.medrxiv_link }}" target="_blank">medRxiv: {{ p.medrxiv }}</a>{% endif %}
+        {% if p.pmid %} <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ p.pmid }}" target="_blank">PMID: {{ p.pmid }}</a>{% endif %}
+        {% if p.doi %} <a href="https://doi.org/{{ p.doi }}" target="_blank">doi: {{ p.doi }}</a>{% endif %}
+      </li>
+    {% if forloop.last %}</ul>{% endif %}
+  {% endfor %}
+  <a href="#page-title" class="back-to-top">Back to Top ↑</a>
+ </section>
+{% endfor %}

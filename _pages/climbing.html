@@ -1,0 +1,43 @@
+---
+permalink: /climbing/
+title: "My multi-pitch climbs"
+---
+
+<ul class="taxonomy__index">
+  {% for y in site.data.climbing %}
+    <li>
+      <a href="#{{ y.year }}" style="text-decoration:none">
+        <strong>{{ y.year }}</strong> <span class="taxonomy__count">{{ y.routes.size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% for y in site.data.climbing %}
+  <section id="{{ y.year }}" class="taxonomy__section">
+    <h2>{{ y.year }}</h2>
+    {% for r in y.routes %}
+      <div {% if r.id %}id="{{ r.id }}"{% endif %} class="notice" style="margin: 1em 0 !important;">
+        <div>
+          <h4 style="float:left">{{ r.name }} - {{r.wall}}</h4>
+          <div style="float:right">
+            {% if r.ref_bergsteigen %}
+              <a href="{{ r.ref_bergsteigen }}" target="_blank"><img src="https://www.bergsteigen.com/favicons/favicon-32x32.png?v=5AepkPPloP" alt="bergsteigen.com" style="width:16px;height:16px;"></a>
+            {% endif %}
+            {% if r.ref_thecrag %}
+              <a href="{{ r.ref_thecrag }}" target="_blank"><img src="https://static.thecrag.com/cids/images/logo-114-1.1.1.png" alt="thecrag.com" style="width:16px;height:16px;"></a>
+            {% endif %}
+          </div>
+          <div style="clear:both"></div>
+        </div>
+        <p>
+          <i class="fas fa-signal"></i><span>&nbsp;{{ r.UIAA }}&nbsp;&nbsp;</span>
+          {% if r.partner %}<i class="fas fa-user-friends"></i><span>&nbsp;{{ r.partner }}&nbsp;&nbsp;</span>{% endif %}
+          {% if r.date %}<i class="fas fa-calendar-day"></i><span>&nbsp;{{ r.date }}</span>{% endif %}<br/>
+          {{ r.country }} / {{r.region}}
+        </p>
+      </div>
+    {% endfor %}
+  <a href="#page-title" class="back-to-top">Back to Top ↑</a>
+  </section>
+{% endfor %}

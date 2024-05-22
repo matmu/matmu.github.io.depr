@@ -1,0 +1,283 @@
+---
+- year: 2024
+  routes:
+    - name: Südwind
+      id: suedwind
+      date: 06.04.2024
+      wall: Nösslachwand
+      country: Austria
+      region: Stubaier Alps
+      partner: I.K.
+      UIAA: 6
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/suedwind-noesslachwand/
+      ref_thecrag: https://www.thecrag.com/de/klettern/austria/route/2585316849
+    - name: Inntalsynfonie
+      id: inntalsynfonie
+      date: 05.04.2024
+      wall: Geierwand
+      country: Austria
+      region: Tirol / Haiming
+      partner: I.K.
+      UIAA: 7-
+      tags: Onsight
+      ref_thecrag: https://www.thecrag.com/de/klettern/austria/route/3284081367
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/inntalsynfonie-geierwand/
+- year: 2023
+  routes:
+    - name: Eisenzeit
+      date: 17.09.2023
+      wall: Zugspitze
+      country: Germany
+      region: Wetterstein
+      partner: N. and L.
+      UIAA: 4-
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/bergfuehrerweg-eisenzeit-zugspitze/
+    - name: Rampe
+      date: 15.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 3
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/4024450599
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/rampen-rippe-benediktenwand/
+    - name: Maximiliansweg (Down)
+      date: 15.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 3-
+      ref_thecrag: https://www.thecrag.com/climbing/germany/oberbayern/route/4024450425
+    - name: Caveman
+      date: 15.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 7
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/4024613841
+    - name: Lebe deinen Traum
+      date: 08.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 7
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/3739183998
+    - name: Maximiliansweg
+      date: 08.07.2023
+      wall: Benediktenwand
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P., K.P.
+      UIAA: 3-
+      ref_thecrag: https://www.thecrag.com/climbing/germany/oberbayern/route/4024450425
+    - name: Zum Herzog
+      date: 24.06.2023
+      wall: Herzogstand (North-east)
+      country: Germany
+      region: Bavarian Prealps
+      partner: G.P.
+      UIAA: 4+
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/2453666712
+      details: 2.5h
+    - name: Moon Bears
+      wall: Parete del Limaro
+      country: Italy
+      region: Arco / Lago di Garda
+      date: 07.05.2023
+      UIAA: 6
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/moon-bears-picol-dain/
+      ref_thecrag: https://www.thecrag.com/en/climbing/italy/dain/route/1595385456
+      partner: I.K.
+      tags: Onsight
+    - name: Dinosauri
+      id: dinosauri
+      wall: Cima alle Coste
+      country: Italy
+      region: Arco / Lago di Garda
+      date: 06.05.2023
+      UIAA: 7-/7 (6- obl.)
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/dinosauri-cima-alle-coste/
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/arco/route/669860052
+      partner: I.K.
+      tags: Onsight
+    - name: Elios
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco / Lago di Garda
+      date: 05.05.2023
+      UIAA: 7+
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2293184544
+      partner: G.P. <a href="https://d-on-r.de/" target="_blank"><i class="fas fa-link"></i></a>
+    - name: Weg durch das Gesicht
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco / Lago di Garda
+      partner: G.P. <a href="https://d-on-r.de/" target="_blank"><i class="fas fa-link"></i></a>
+      date: 26.03.2023
+      UIAA: 8-
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/2294659443
+    - name: Archangelo
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco / Lago di Garda
+      partner: G.P. <a href="https://d-on-r.de/" target="_blank"><i class="fas fa-link"></i></a>
+      date: 25.03.2023
+      ref_thecrag: https://www.thecrag.com/en/climbing/italy/arco/route/5997998097
+      UIAA: 7+
+    - name: Athene
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco / Lago di Garda
+      partner: G.P. <a href="https://d-on-r.de/" target="_blank"><i class="fas fa-link"></i></a>
+      date: 24.03.2023
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/501985221
+      UIAA: 7+ (6+ obl.)
+    - name: Wegrama
+      wall: Martinswand
+      country: Austria
+      region: Karwendel / Innsbruck
+      partner: I.K.
+      date: 18.03.2023
+      comment: Stepped out to route Spätlese before 2nd last pitch and skipped the
+        hardest part.
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/wegrama-martinswand/
+      UIAA: 7+ (6+ obl.)
+      tags: Onsight
+- year: 2022
+  routes:
+    - name: Geduldsfaden
+      wall: Glaswand
+      country: Germany
+      region: Bavarian Prealps
+      partner: I.K.
+      date: 24.07.2022
+      UIAA: 7-
+      tags: Onsight
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/3834731541
+    - name: Kochelmonster
+      wall: Reservat
+      country: Germany
+      region: Kochel
+      partner: I.K.
+      date: 06.07.2022
+      tags: Flash
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/252745986
+    - name: Selene
+      wall: Parete di San Paolo
+      country: Italy
+      region: Arco / Lago di Garda
+      partner: I.K.
+      date: 13.05.2022
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/selene-parete-san-paolo-arco/
+      ref_thecrag: https://www.thecrag.com/it/arrampicar/italy/parete-san-paolo/route/521951505
+      uiaa: 6
+      tags: Onsight
+    - name: La Luna Argentea
+      wall: Cima Alle Coste
+      country: Italy
+      region: Arco / Lago di Garda
+      partner: I.K.
+      date: 12.05.2022
+      UIAA: 7+ (6/A0, 5 obl.)
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/la-luna-argentea-cima-alle-coste/
+      ref_thecrag: https://www.thecrag.com/de/klettern/italy/arco/route/5418859974
+      tags: Onsight
+    - name: Maxl's Krone
+      wall: Martinswand
+      country: Austria
+      region: Karwendel / Innsbruck
+      partner: I.K.
+      date: 27.03.2022
+      UIAA: 7- (6- obl.)
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/maxls-krone-martinswand/
+    - name: Maxl's Gamsrevier
+      wall: Martinswand
+      country: Austria
+      region: Karwendel / Innsbruck
+      partner: I.K.
+      date: 27.03.2022
+      UIAA: 7- (6- obl.)
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/maxls-gamsrevier-martinswand/
+    - name: Südwestkante
+      wall: Großer Illing
+      country: Germany
+      region: Bavarian Prealps
+      partner: P.B.
+      date: 20.03.2022
+      UIAA: 5
+      tags: Onsight
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/6519773742
+- year: 2021
+  routes:
+    - name: Sunset Boulevard
+      wall: Geierwand
+      country: Austria
+      region: Tirol / Haiming
+      partner: I.K.
+      date: 30.10.2021
+      UIAA: 6+
+      tags: Onsight
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/sunset-boulevard-geierwand/
+      ref_thecrag: https://www.thecrag.com/de/klettern/austria/route/2630705067
+    - name: Fahrt ins Blaue
+      wall: Leonhardstein
+      country: Germany
+      region: Bavarian Prealps
+      partner: I.K.
+      date: 21.08.2021
+      UIAA: 7 (6 obl.)
+      ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/fahrt-ins-blaue-leonhardstein/
+      ref_thecrag: https://www.thecrag.com/pt/escalando/germany/oberbayern/route/1822794465
+      tags: Onsight
+- year: Before
+  routes:
+    - name: Diedro UBSA
+      wall: Peñón de Ifach
+      country: Spain
+      region: Costa Blanca / Calp
+      partner: M.B., J.L., X.Y.
+      UIAA: 6
+      ref_thecrag: https://www.thecrag.com/en/climbing/spain/penon-de-ifach/route/14158117
+    - name: Magical Mystery Tour
+      wall: Sierra de Toix
+      country: Spain
+      region: Costa Blanca
+      UIAA: 6-
+      partner: M.B., J.L., X.Y.
+      ref_thecrag: https://www.thecrag.com/de/klettern/spain/sierra-de-toix/route/2457292104
+    - name: Alte Südwand
+      UIAA: 4+
+      partner: M.
+      wall: Gimpel
+      region: Tannheimer Berge / Allgäu
+      country: Germany
+    - name: Südwestkante
+      UIAA: 5
+      partner: M.
+      wall: Gehrenspitze
+      region: Tannheimer Berge / Allgäu
+      country: Germany
+    - name: Adolf-Niklas-Gedächtnis-Weg
+      wall: Aussichtsfels
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/route/249400260
+      partner: M.
+      UIAA: 4-
+      region: Baden-Württemberg / Donautal
+      country: Germany
+    - name: Normalweg
+      wall: Stuhlfels
+      UIAA: 3
+      partner: M.
+      region: Baden-Württemberg / Donautal
+      country: Germany
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/route/249502476
+    - name: Opakante
+      wall: Schreyfels
+      country: Germany
+      region: Baden-Württemberg / Donautal
+      partner: M.
+      UIAA: 4+
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/schwaebische-alb/donautal/area/662723286

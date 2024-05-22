@@ -1,28 +1,24 @@
 # Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
+
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: Matthiasmunz.de 👋
+subtitle: Explore, Learn, Create & Innovate
+email: matthias.munz@gmx.de
+repository: matmu/matmu.github.io
+url: "https://matmu.github.io"
+baseurl: ""
+description: Explore, Learn, Create & Innovate.
+twitter_username: _MatthiasMunz
+github_username: matmu
 minimal_mistakes_skin: default
 search: true
+search_full_content: true
+search_provider: lunr
+lunr:
+  search_within_pages: true
+
 
 # Build settings
 markdown: kramdown
@@ -31,7 +27,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -48,6 +44,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -57,35 +54,68 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Matthias Munz"
+  avatar : "/assets/images/portrait_quadr.png"
+  bio    : "From a village near Freiburg, Germany. Living and working in Penzberg, Bavaria. Passionate about bioinformatics, climbing and travelling. Adventurer. Programmer. Big data expert. Problem solver. Creator. Autodidact."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Penzberg"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://goo.gl/maps/jRkNWky3BkshXo23A"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:matthias.munz@gmx.de"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "http://twitter.com/_MatthiasMunz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "http://github.com/matmu"
+    - label: "G. Scholar"
+      icon: "ai ai-google-scholar-square adj-academicicons"
+      url: "https://scholar.google.de/citations?user=YqZW19IAAAAJ&hl=de"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/matthiasmunz"
+    - label: Youtube
+      icon: fab fa-fw fa-youtube
+      url: "https://www.youtube.com/channel/UC_YAo3WMEkmRzhIEuglf-dA"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/matthias-munz"
+    - label: Stackoverflow
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/1150325"
+    - label: Orcid
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-4728-3357"
+    - label: Docker
+      icon: "fab fa-docker"
+      url: "http://hub.docker.com/u/matmu"
+    - label: Komoot
+      icon:
+      url: https://www.komoot.com/de-de/user/452401342375
+    - label: Geocaching
+      icon:
+      url: http://www.geocaching.com/profile/?id=20047833
+    - label: Warmshowers
+      icon:
+      url: https://www.warmshowers.org/user/268713
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#   - label: "Twitter"
+#     icon: "fab fa-fw fa-twitter-square"
+#     url: "https://twitter.com/"
+#   - label: "GitHub"
+#     icon: "fab fa-fw fa-github"
+#     url: "https://github.com/"
+#   - label: "Instagram"
+#     icon: "fab fa-fw fa-instagram"
+#     url: "https://instagram.com/"
+
 
 defaults:
   # _posts
@@ -96,16 +126,19 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+      comments: false
+      share: false
+      related: false
+      show_date: true
+      date_format: "%B %-d, %Y"
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+
 
 category_archive:
   type: liquid
@@ -113,3 +146,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+after_footer_scripts:
+  - https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
+  - assets/js/clipboardrouge.js
