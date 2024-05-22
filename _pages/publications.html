@@ -19,7 +19,17 @@ title: My publications
   {% endfor %}
 {% endfor %}
 
-To date, Matthias authors <strong>{{ total_pubs }}</strong> scientific publications, <strong>{{ first_authorships }}</strong> of them as first author (including <strong>{{ shared_first_authorships }}</strong> shared first authorships, marked below with an asterisk). A complete list of publications including conference posters and talks is available <a href="{{ site.baseurl }}/assets/pdfs/publications.pdf">here</a>.
+To date, Matthias authors <strong>{{ total_pubs }}</strong> scientific publications, <strong>{{ first_authorships }}</strong> of them as first author (including <strong>{{ shared_first_authorships }}</strong> shared first authorships, marked below with an asterisk). A PDF document listing my publications, conference posters and talks is available <a href="{{ site.baseurl }}/assets/pdfs/publications.pdf">here</a>.
+
+
+{% assign sorted_stats = site.data.googlescholar_stats | sort: 'date' %}
+{% assign latest_stat = sorted_stats | last %}
+<div class="notice">
+  <b>Total citations:</b> {{ latest_stat.totalCitations }} </br>
+  <b>h-Index:</b> {{ latest_stat.hIndex }} </br>
+  <b>i10-Index:</b> {{ latest_stat.i10Index }}
+</div>
+
 
 <ul class="taxonomy__index">
   {% for y in site.data.publications %}
@@ -30,6 +40,7 @@ To date, Matthias authors <strong>{{ total_pubs }}</strong> scientific publicati
     </li>
   {% endfor %}
 </ul>
+
 
 {% for y in site.data.publications %}
  <section id="{{ y.year }}" class="taxonomy__section">
