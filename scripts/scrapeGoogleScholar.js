@@ -69,5 +69,5 @@ async function scrapeGoogleScholar(authorId, outputYML, outputJson) {
   await browser.close();
 }
 
-// Replace 'authorId' with the actual Google Scholar author ID
+// Executed by Github workflow
 scrapeGoogleScholar('YqZW19IAAAAJ', '_data/googlescholar_stats.yml', '_data/googlescholar_stats.json');
