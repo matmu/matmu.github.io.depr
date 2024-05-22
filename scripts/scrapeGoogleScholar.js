@@ -70,4 +70,4 @@ async function scrapeGoogleScholar(authorId, outputYML, outputJson) {
 }
 
 // Replace 'authorId' with the actual Google Scholar author ID
-scrapeGoogleScholar('YqZW19IAAAAJ', '../_data/googlescholar_stats.yml', '../_data/googlescholar_stats.json');
+scrapeGoogleScholar('YqZW19IAAAAJ', '_data/googlescholar_stats.yml', '_data/googlescholar_stats.json');
