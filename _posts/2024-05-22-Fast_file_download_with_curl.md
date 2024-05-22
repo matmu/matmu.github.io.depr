@@ -29,7 +29,7 @@ Wir sind derzeit im Urlaub in Kroatien und ich habe vergessen, das Navigationssy
 
 Nachdem ich erfolglos einige dubiose Browser-Erweiterungen ausprobiert hatte, entschied ich mich schließlich für [dieses](https://github.com/WanghongLin/miscellaneous/blob/master/tools/mcurl.sh) Bash-Skript. Es lädt mehrere Teile der Datei auf einmal herunter, wobei deren Anzahl vom Benutzer konfiguriert werden kann. Nach 15 Minuten war der Download beendet.
 
-1. Download-Skript
+1. Skript herunterladen
 ```
 curl https://github.com/WanghongLin/miscellaneous/blob/master/tools/mcurl.sh >mcurl.sh && chmod 744 mcurl.sh
 ```
