@@ -18,6 +18,10 @@ search_full_content: true
 search_provider: lunr
 lunr:
   search_within_pages: true
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-R6WNSZET6Q"
 
 
 # Build settings
