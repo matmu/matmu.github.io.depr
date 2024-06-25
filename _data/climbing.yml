@@ -1,6 +1,15 @@
 ---
 - year: 2024
   routes:
+    - name: Der kleine Prinz
+      id: prinz
+      date: 24.06.2024
+      wall: Reservat
+      country: Germany
+      region: Kochel
+      partner: I.K.
+      UIAA: 5+
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/7904845662
     - name: Südwind
       id: suedwind
       date: 06.04.2024
@@ -163,6 +172,7 @@
       region: Kochel
       partner: I.K.
       date: 06.07.2022
+      UIAA: 5+
       tags: Flash
       ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/252745986
     - name: Selene
@@ -171,6 +181,7 @@
       region: Arco / Lago di Garda
       partner: I.K.
       date: 13.05.2022
+      UIAA: 6
       ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/selene-parete-san-paolo-arco/
       ref_thecrag: https://www.thecrag.com/it/arrampicar/italy/parete-san-paolo/route/521951505
       uiaa: 6
