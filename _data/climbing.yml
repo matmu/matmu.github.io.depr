@@ -1,6 +1,15 @@
 ---
 - year: 2024
   routes:
+    - name: Südwestkante
+      wall: Großer Illing
+      country: Germany
+      region: Bavarian Prealps
+      partner: I.K.
+      date: 29.06.2024
+      UIAA: 6+
+      tags: Onsight
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/6519773742
     - name: Der kleine Prinz
       id: prinz
       date: 24.06.2024
