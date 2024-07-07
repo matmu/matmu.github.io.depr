@@ -17,7 +17,7 @@ Da viele Routen gar nicht auf der Webseite sind (aber hoffentlich bald, denn die
 
 ## Routen
 
-{% assign sorted_locations = site.data.well_secured_routes_arco | sort: 'location' %}
+{% assign sorted_locations = site.data.super_plaisir_arco | sort: 'location' %}
 {% for location in sorted_locations %}
 ### {{ location.location }}
 
