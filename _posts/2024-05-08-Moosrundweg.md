@@ -1,7 +1,7 @@
 ---
 title: "Rundweg im Murnauer Moos"
 tags:
-  - Trip
+  - Trips
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"

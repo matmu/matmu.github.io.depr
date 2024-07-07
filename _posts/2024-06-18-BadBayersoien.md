@@ -1,6 +1,6 @@
 ---
 title: Um den Bad Bayersoiener See
-tags: Trip
+tags: Trips
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"

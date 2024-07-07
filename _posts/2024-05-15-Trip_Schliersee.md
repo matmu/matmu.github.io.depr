@@ -1,6 +1,6 @@
 ---
 title: Wandern, Bootsfahrt und Sommerrodeln am Schliersee
-tags: Trip
+tags: Trips
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"

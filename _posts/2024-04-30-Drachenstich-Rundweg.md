@@ -1,7 +1,7 @@
 ---
 title: "Drachenstich-Rundweg in Murnau"
 tags:
-  - Trip
+  - Trips
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"

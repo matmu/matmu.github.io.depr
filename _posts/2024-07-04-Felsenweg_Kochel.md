@@ -1,6 +1,6 @@
 ---
 title: Der Felsenweg am Kochelsee
-tags: Trip
+tags: Trips
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"

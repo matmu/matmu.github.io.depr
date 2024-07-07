@@ -1,0 +1,263 @@
+---
+- location: Placche Parete Zebrate
+  routes:
+    - title: Via Fantatitoli
+      difficulty: 6
+      hook_density: sehr gut
+      orientation: Südwest
+      zustiegszeit: 30 min
+      n_comments: 0
+      length: 230 m
+      url: https://www.bergsteigen.com/touren/klettern/via-fantatitoli-placche-parete-zebrate/
+
+- location: Val Di Ledro
+  routes:
+    - title: Via Ernia
+      difficulty: 6 (6 obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 30 min
+      n_comments: 1
+      length: 95 m
+      url: https://www.bergsteigen.com/touren/klettern/via-ernia-val-di-ledro/
+    - title: Regina Del Lago/Zio Genio
+      difficulty: 6/6+ (5+ obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 30 min
+      n_comments: 0
+      length: 95 m
+      url: https://www.bergsteigen.com/touren/klettern/regina-del-lago-zio-genio-val-di-ledro/
+    - title: Semiramide
+      difficulty: 6 (5/5+ obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 30min
+      n_comments: 1
+      length: 110m
+      url: https://www.bergsteigen.com/touren/klettern/semiramide-val-di-ledro/
+    - title: Su e Giu
+      difficulty: 7- (6-/6 obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 15 min
+      n_comments: 1
+      length: 150 m
+      url: https://www.bergsteigen.com/touren/klettern/su-e-giu-via-su-e-giu-val-di-ledro/
+    - title: Via Messalina
+      difficulty: 6/6+ (6- obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 15 min
+      n_comments: 1
+      length: 95 m
+      url: https://www.bergsteigen.com/touren/klettern/via-messalina-val-di-ledro/
+    - title: Via Donne Di Cuori
+      difficulty: 6 (5-/5 obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 15 min
+      n_comments: 1
+      length: 100 m
+      url: https://www.bergsteigen.com/touren/klettern/via-donne-di-cuori-val-di-ledro/
+    - title: Via Viagra
+      difficulty: 6+ (6- obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 15 min
+      n_comments: 1
+      length: 135 m
+      url: https://www.bergsteigen.com/touren/klettern/via-viagra-val-di-ledro/
+    - title: Via Favola Ledrense
+      difficulty: 6+ (6- obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 15 min
+      n_comments: 1
+      length: 130 m
+      url: https://www.bergsteigen.com/touren/klettern/via-favola-ledrense-val-di-ledro/
+    - title: Super Ciccio
+      difficulty: 6-/6 (5 obl.)
+      hook_density: sehr gut
+      orientation: Süd, Südwest
+      zustiegszeit: 15 min
+      n_comments: 0
+      length: 125 m
+      url: https://www.bergsteigen.com/touren/klettern/super-ciccio-val-di-ledro/
+
+- location: Cima Nodice
+  routes:
+    - title: Il Disertore
+      difficulty: 6+ (6- obl.)
+      hook_density: sehr gut
+      orientation: Süd
+      zustiegszeit: 45 min
+      n_comments: 4
+      length: 230 m
+      url: https://www.bergsteigen.com/touren/klettern/il-disertore-cima-nodice/
+
+- location: Croce Di Ceniga
+  routes:
+    - title: Palma
+      difficulty: 6+ (6- obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 25 min
+      n_comments: 1
+      length: 145 m
+      url: https://www.bergsteigen.com/touren/klettern/palma-croce-di-ceniga/
+    - title: Via Crucis
+      difficulty: 7- (6 obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 35 min
+      n_comments: 0
+      length: 165 m
+      url: https://www.bergsteigen.com/touren/klettern/via-crucis-croce-di-ceniga/
+
+- location: Valle Del Sarca
+  routes:
+    - title: Via Alessandro Avancini
+      difficulty: 6/6+ (5+ obl.)
+      hook_density: sehr gut
+      orientation: Ost, Südost
+      zustiegszeit: 30 min
+      n_comments: 0
+      length: 150 m
+      url: https://www.bergsteigen.com/touren/klettern/via-alessandro-avancini-valle-del-sarca/
+
+- location: Parete Zebrate
+  routes:
+    - title: Via Spinelo
+      difficulty: 6 (6- obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 30 min
+      n_comments: 2
+      length: 240 m
+      url: https://www.bergsteigen.com/touren/klettern/via-spinelo-placche-parete-zebrate/
+    - title: Via Fantatitoli
+      difficulty: 6 (6- obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 30 min
+      n_comments: 0
+      length: 145 m
+      url: https://www.bergsteigen.com/touren/klettern/via-fantatitoli-placche-parete-zebrate/
+
+- location: Parete San Paolo
+  routes:
+    - title: Via Porci Con Le Ali
+      difficulty: 6+ (6- obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 15 min
+      n_comments: 2
+      length: 145 m
+      url: https://www.bergsteigen.com/touren/klettern/via-porci-con-le-ali-arco-san-paolo/
+    - title: Via Caldo Inverno
+      difficulty: 6+ (6-/6 obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 15 min
+      n_comments: 5
+      length: 180m
+      url: https://www.bergsteigen.com/touren/klettern/via-caldo-inverno/
+    - title: Via La Cengia Rossa
+      difficulty: 6+ (6 obl.)
+      hook_density: sehr gut
+      orientation: Südost
+      zustiegszeit: 10 min
+      n_comments: 5
+      length: 210m
+      url: https://www.bergsteigen.com/touren/klettern/via-la-cengia-rossa-arco/
+
+- location: Parete Dallas
+  routes:
+    - title: In Ricordo Di Ale
+      difficulty: 7-/7 (6 obl.)
+      hook_density: sehr gut
+      orientation: Nordwest
+      zustiegszeit: 20 min
+      n_comments: 3
+      length: 140m
+      url: https://www.bergsteigen.com/touren/klettern/in-ricordo-di-ale-parete-dallas/
+
+- location: Parete Del Limaro am Piccolo Dain
+  routes:
+    - title: Moon Bears
+      difficulty: 6
+      hook_density: sehr gut
+      orientation: Südwest
+      zustiegszeit: 15 min
+      n_comments: 4
+      length: 265 m
+      url: https://www.bergsteigen.com/touren/klettern/moon-bears-picol-dain/
+
+- location: Piccolo Dain
+  routes:
+    - title: Le Strane Voglie Di Ameli
+      difficulty: 6
+      hook_density: sehr gut
+      orientation: Südwest
+      zustiegszeit: 75 min
+      n_comments: 7
+      length: 245 m
+      url: https://www.bergsteigen.com/touren/klettern/le-strane-voglie-di-amelie/
+
+- location: Cima Alle Coste
+  routes:
+    - title: Dinosauri
+      difficulty: 7-/7 (6+ obl.)
+      hook_density: sehr gut
+      orientation: Ost, Südost
+      zustiegszeit: 30 min
+      n_comments: 9
+      length: 475 m
+      url: https://www.bergsteigen.com/touren/klettern/dinosauri-cima-alle-coste/
+    - title: Luca Franz Franceschini
+      difficulty: 6+ (6- obl.)
+      hook_density: sehr gut
+      orientation: Ost, Südost
+      zustiegszeit: 30 min
+      n_comments: 4
+      length: 430 m
+      url: https://www.bergsteigen.com/touren/klettern/luca-franz-franceschini-cima-alle-coste-sud/
+    - title: Esclusivamente Per Tutti
+      difficulty: 6+/7- (5- obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 25 min
+      n_comments: 3
+      length: 395 m
+      url: https://www.bergsteigen.com/touren/klettern/esclusivamente-per-tutti-cima-alle-coste/
+    - title: Giuro Che E L'Ultima
+      difficulty: 7/7+ (6 obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 30 min
+      n_comments: 2
+      length: 375 m
+      url: https://www.bergsteigen.com/touren/klettern/esclusivamente-per-tutti-cima-alle-coste/
+
+- location: Mandrea
+  routes:
+    - title: Romantica
+      difficulty: 8- (6 obl.)
+      hook_density: sehr gut
+      orientation: Südost
+      zustiegszeit: 15 min
+      n_comments: 0
+      length: 270 m
+      url: https://www.bergsteigen.com/touren/klettern/romantica-mandrea/
+
+- location: Coste Dell Anglone
+  routes:
+    - title: Frog
+      difficulty: 7+/8- (7 obl.)
+      hook_density: sehr gut
+      orientation: Ost
+      zustiegszeit: 15 min
+      n_comments: 1
+      length: 225 m
+      url: https://www.bergsteigen.com/touren/klettern/frog-coste-dell-anglone/
