@@ -1,15 +1,5 @@
 ---
-- location: Placche Parete Zebrate
-  routes:
-    - title: Via Fantatitoli
-      difficulty: 6
-      hook_density: sehr gut
-      orientation: Südwest
-      zustiegszeit: 30 min
-      n_comments: 0
-      length: 230 m
-      url: https://www.bergsteigen.com/touren/klettern/via-fantatitoli-placche-parete-zebrate/
-
+  
 - location: Val Di Ledro
   routes:
     - title: Via Ernia
