@@ -1,6 +1,22 @@
 ---
 - year: 2024
   routes:
+    - name: Der kleine Prinz
+      date: 03.09.2024
+      wall: Reservat
+      country: Germany
+      region: Kochel
+      partner: J.G.
+      UIAA: 5+
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/7904845662
+    - name: Kochelmonster
+      wall: Reservat
+      country: Germany
+      region: Kochel
+      partner: I.K.
+      date: 17.07.2022
+      UIAA: 5+
+      ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/252745986
     - name: Südwestkante
       wall: Großer Illing
       country: Germany
@@ -11,13 +27,13 @@
       tags: Onsight
       ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/6519773742
     - name: Der kleine Prinz
-      id: prinz
       date: 24.06.2024
       wall: Reservat
       country: Germany
       region: Kochel
       partner: I.K.
       UIAA: 5+
+      tags: Onsight
       ref_thecrag: https://www.thecrag.com/de/klettern/germany/kochel/route/7904845662
     - name: Südwind
       id: suedwind

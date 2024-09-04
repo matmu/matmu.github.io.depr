@@ -23,7 +23,9 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "G-R6WNSZET6Q"
-breadcrumbs: false  # disabled by default
+breadcrumbs: FALSE  # disabled by default
+enable_copy_code_button: TRUE
+
 
 # Build settings
 markdown: kramdown
@@ -71,9 +73,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:matthias.munz@gmx.de"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "http://twitter.com/_MatthiasMunz"
+    - label: "X"
+      icon: "fa-brands fa-square-x-twitter"
+      url: "https://x.com/_MatthiasMunz"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "http://github.com/matmu"
@@ -152,7 +154,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
-after_footer_scripts:
-  - https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
-  - assets/js/clipboardrouge.js
+# after_footer_scripts:
+#   - https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
+#   - assets/js/clipboardrouge.js

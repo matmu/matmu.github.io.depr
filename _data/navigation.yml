@@ -7,8 +7,10 @@ main:
     url: /publications/
   - title: "Climbing"
     url: /climbing/
-  - title: "Cycling"
-    url: /cycling/
+  - title: "Support"
+    url: /support_me/
+#  - title: "Cycling"
+#    url: /cycling/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
