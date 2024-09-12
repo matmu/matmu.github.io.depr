@@ -216,3 +216,10 @@
       journal: "Radiat Oncol."
       pmid: 26316159
       doi: "10.1186/s13014-015-0481-x"
+
+- year: "Under review"
+  publications:
+    - authors: "Traeuble K., <b>Munz M.</b> et al.
+      title: "Integrated single-cell atlas of human atherosclerotic plaques."
+      biorxiv: 612431
+      biorxiv_link: https://www.biorxiv.org/content/10.1101/2024.09.11.612431v1
