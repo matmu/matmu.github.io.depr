@@ -22,13 +22,13 @@ Die Zutaten in eine leere Sprühflasche geben, mit Wasser auffüllen, schütteln
 Übrigens: Die Zitronensäure kann man in 5kg-Eimern bei Amazon bestellen (zum Beispiel [hier](https://amzn.to/4f3SEp0)).
 
 
-# English
+# English (DeepL)
 Bathroom cleaners are easy to make yourself with just a few ingredients. The best thing about it? Not only do you save money, but you also protect the environment as your DIY cleaner is free from harsh chemicals.
 
 ## Ingredients
 - 50 g citric acid ([buy](https://amzn.to/4f3SEp0))
 - 1 drop of washing-up liquid
-- Optional: a few drops of essential oil for a nice smell ([buy](https://amzn.to/3Y6zl7B))
+- Optional: a few drops of essential oil for a nice smell ([buy,k](https://amzn.to/3Y6zl7B))
 - Lukewarm water (lukewarm so that the citric acid dissolves better)
 
 ## Tip: Buy citric acid in bulk packs
