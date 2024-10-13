@@ -3,7 +3,10 @@ const yaml = require('js-yaml');
 const fs = require('fs');
 
 async function scrapeGoogleScholar(authorId, outputYML, outputJson) {
-  const browser = await puppeteer.launch();
+  // Launch puppeteer with no sandbox flags
+  const browser = await puppeteer.launch({
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
   const page = await browser.newPage();
   await page.goto(`https://scholar.google.com/citations?user=${authorId}`);
 
