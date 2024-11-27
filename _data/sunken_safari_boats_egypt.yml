@@ -1,0 +1,107 @@
+
+- boat_name: "M/Y Sea Story"
+  fleet_name: "Dive Pro Liveaboard"
+  date_of_incident: "2024-11-25"
+  location: "Near Sataya Reef"
+  reported_cause: "Capsized due to high waves"
+  soals_on_board: 44
+  casualties: "4 dead, 7 missing"
+  refs:
+   - text: "taucher.net"
+     url: "https://taucher.net/diveinside-safariboot_sea_story_im_roten_meer_gesunken-kaz9391"
+
+- boat_name: "M/Y Nouran"
+  fleet_name: "Red Sea Explorers"
+  date_of_incident: "2024-11-06"
+  location: "Daedalus Reef"
+  reported_cause: "Fire on board"
+  soals_on_board: 30
+  casualties: "None"
+  refs:
+   - text: "divemagazine.com"
+     url: "https://divemagazine.com/scuba-diving-news/egyptian-liveaboard-mv-nouran-catches-fire-sinks-daedalus-reef"
+
+- boat_name: "M/Y Seaduction"
+  fleet_name: "Seaduction"
+  date_of_incident: "2024-10-24"
+  location: "Elba Reef, St. John's National Park"
+  reported_cause: "Struck a reef during stormy weather"
+  soals_on_board: 28
+  casualties: "None"
+  refs:
+    - text: "divemagazine.com"
+      url: "https://divemagazine.com/scuba-diving-news/red-sea-liveaboard-sinks-in-egypts-south-18-divers-rescued"
+
+- boat_name: "M/Y Exocet"
+  fleet_name: "Diving Attitude"
+  date_of_incident: "2024-06-26"
+  location: "Sataya Reef, near Marsa Alam"
+  reported_cause: "Struck coral reef"
+  soals_on_board: 34
+  casualties: "None"
+  refs:
+    - text: "divemagazine.com"
+      url: "https://divemagazine.com/scuba-diving-news/popular-french-liveaboard-exocet-sinks-near-marsa-alam"
+
+- boat_name: "M/Y Sea Legend"
+  fleet_name: "Dive Pro Liveaboard"
+  date_of_incident: "2024-02-22"
+  location: "3 km off the coast"
+  soals_on_board: 31
+  reported_cause: "Fire caused by cable malfunction"
+  casualties: "1 dead (German diver presumed missing)"
+  refs:
+    - text: "taucher.net"
+      url: "https://taucher.net/diveinside-brand_auf_der_m_y_sea_legend-kaz9202"
+
+- boat_name: "M/Y Hurricane"
+  fleet_name: "Tornado Marine Fleet"
+  date_of_incident: "2023-06-11"
+  location: "Near Elphinstone Reef"
+  reported_cause: "Fire on board, suspected electrical short circuit"
+  soals_on_board: 26
+  casualties: "3 dead"
+  refs:
+    - text: "taucher.net"
+      url: "https://taucher.net/diveinside-disaster_on_liveaboard_vessel_in_the_red_sea__fire_on_the_m_y_hurricane-kaz9033"
+    - text: "divemagazine.com"
+      url: "https://divemagazine.com/scuba-diving-news/red-sea-liveaboard-mv-hurricane-fire-disaster"
+    - text: "aljazeera.com"
+      url: "https://www.aljazeera.com/news/2023/6/11/british-tourists-missing-after-boat-fire-in-egypts-red-sea"
+
+- boat_name: "M/Y Carlton Queen"
+  fleet_name: "Carlton Fleet"
+  date_of_incident: "2023-04-24"
+  location: "Abu Nuhas area, near Hurghada"
+  reported_cause: "Capsized; exact cause unknown"
+  soals_on_board: 35
+  casualties: "None"
+  refs:
+    - text: "taucher.net"
+      url: "https://taucher.net/diveinside-kurzanalyse_zur_kenterung_des_tauchsafaribootes_m_y_carlton_queen-kaz8984"
+
+- boat_name: "M/Y Scuba Scene"
+  fleet_name: "Golden Dolphin Safari World Fleet"
+  date_of_incident: "2022-04-19"
+  location: "Near Hurghada"
+  reported_cause: "Fire on board shortly after departure"
+  soals_on_board: 36
+  casualties: "None"
+  refs:
+    - text: "scubaverse.com"
+      url: "https://www.scubaverse.com/m-y-scuba-scene-official-statement/"
+    - text: "taucher.net"
+      url: "https://taucher.net/liveaboard-m_y_scuba_scene-baz14695"
+
+- boat_name: "Red Sea Aggressor I"
+  fleet_name: "Aggressor Fleet"
+  date_of_incident: "2019-11-01"
+  location: "Near Marsa Alam"
+  reported_cause: "Fire on board"
+  soals_on_board: 31
+  casualties: "1 dead"
+  refs:
+    - text: "taucher.net"
+      url: "https://taucher.net/forum-der_untergang_der_red_sea_aggressor_1-ioz90156"
+    - text: "tauchen.de"
+      url: "https://www.tauchen.de/news/tauchsafarischiff-im-roten-meer-gesunken"
