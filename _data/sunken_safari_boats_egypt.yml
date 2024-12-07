@@ -54,6 +54,19 @@
     - text: "taucher.net"
       url: "https://taucher.net/diveinside-brand_auf_der_m_y_sea_legend-kaz9202"
 
+- boat_name: "M/Y Emperor Echo"
+  fleet_name: "Emperor Fleet"
+  date_of_incident: "2023-10-28"
+  location: "Fury Shoals Reef"
+  reported_cause: "Blown onto the reef in sudden and intense lightning storm"
+  soals_on_board: NA
+  casualties: "None"
+  refs:
+    - text: "thescubanews.com"
+      url: "https://www.thescubanews.com/2023/10/30/emperor-echo-liveaboard-experiences-severe-winds-and-suffers-irreparable-hull-damage/"
+    - text: "facebook.com"
+      url: "https://www.facebook.com/photo.php?fbid=782879327183460&id=100063841994333&set=a.480174194120643"
+
 - boat_name: "M/Y Hurricane"
   fleet_name: "Tornado Marine Fleet"
   date_of_incident: "2023-06-11"
