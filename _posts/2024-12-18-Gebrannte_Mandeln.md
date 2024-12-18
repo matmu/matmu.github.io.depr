@@ -49,7 +49,7 @@ Haushaltsübliche Kristallzucker Zucker schmilzt ab etwa 140 °C und beginnt sic
 - 150 g Zucker
 - 8 g (1 Päckchen) Vanillezucker
 - 3 g Zimt
-- 50-100ml Wasser
+- 50-100 ml Wasser
 
 Ich verwende meist die doppelte Menge, damit die Dose schneller voll wird. Das Verhältnis von Zucker und Zimt zu Mandeln ist natürlich Geschmacksache. Die Zuckerangaben sind eher etwas geringer als bei den anderen Rezepten, die man sonst im Internet findet. Bei Zimt habe ich die Erfahrung gemacht: je mehr desto besser.
 
@@ -69,7 +69,7 @@ Conventional granulated sugar melts at around 140 °C and begins to caramelize b
 - 150 g sugar
 - 8 g (1 sachet) vanilla sugar
 - 3 g cinnamon
-- 50-100ml water
+- 50-100 ml water
 
 I usually use double the amount so that the tin fills up more quickly. The ratio of sugar and cinnamon to almonds is of course a matter of taste. The amount of sugar given tends to be a little less than in other recipes you find on the internet. In my experience, the more cinnamon the better.
 
