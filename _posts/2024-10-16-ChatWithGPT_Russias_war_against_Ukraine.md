@@ -6,7 +6,7 @@ toc_label: "Content"
 toc_icon: "fas fa-file-alt"
 ---
 
-In this blog series, I ask ChatGPT questions on a variety of topics, from world politics to everyday issues, to get concise summaries and answers.
+In this blog series, I ask ChatGPT on a variety of topics, from world politics to everyday issues, to get concise summaries and answers.
 
 # English
 
@@ -36,7 +36,7 @@ Russia's official justifications for the war are broadly regarded as unjustified
 
 
 # Deutsch (DeepL)
-In dieser Blogserie frage ich ChatGPT Fragen zu einer Vielzahl von Themen, von der Weltpolitik bis hin zu alltäglichen Fragen, um kurze Zusammenfassungen und Antworten zu erhalten.
+In dieser Blogserie frage ich ChatGPT zu einer Vielzahl von Themen, von der Weltpolitik bis hin zu alltäglichen Fragen, um kurze Zusammenfassungen und Antworten zu erhalten.
 
 ## Disclaimer
 Die von ChatGPT bereitgestellten Antworten werden aus umfangreichen Datensätzen generiert, die möglicherweise Verzerrungen, zum Beispiel aus westlichen Perspektiven, enthalten. Obwohl das Modell auf Genauigkeit ausgerichtet ist, kann es gelegentlich unzutreffende oder irreführende Informationen liefern. Für die Richtigkeit des Inhalts übernehme ich daher keine Verantwortung. Auch wenn ich bestrebt bin, Antworten zu geben, die dem gesunden Menschenverstand entsprechen, ermutige ich dich, Fakten zu überprüfen und Informationen durch vertrauenswürdige Quellen zu verifizieren. Du kannst dich zudem gerne mit Verbesserungsvorschlägen an mich wenden.

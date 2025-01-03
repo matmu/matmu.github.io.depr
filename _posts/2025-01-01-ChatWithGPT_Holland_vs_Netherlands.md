@@ -6,7 +6,7 @@ toc_label: "Content"
 toc_icon: "fas fa-file-alt"
 ---
 
-In dieser Blogserie frage ich ChatGPT Fragen zu einer Vielzahl von Themen, von der Weltpolitik bis hin zu alltäglichen Fragen, um kurze Zusammenfassungen und Antworten zu erhalten.
+In dieser Blogserie frage ich ChatGPT zu einer Vielzahl von Themen, von der Weltpolitik bis hin zu alltäglichen Fragen, um kurze Zusammenfassungen und Antworten zu erhalten.
 
 # Deutsch
 
@@ -26,7 +26,7 @@ Die Niederländer selbst reagieren auf die Bezeichnung "Holland" meist entspannt
 
 # English
 
-In this blog series, I ask ChatGPT questions on a variety of topics, from world politics to everyday issues, to get concise summaries and answers.
+In this blog series, I ask ChatGPT on a variety of topics, from world politics to everyday issues, to get concise summaries and answers.
 
 ## Disclaimer
 The answers provided by ChatGPT are generated from large datasets, which may include biases, for example from Western perspectives. While the model strives for accuracy, it can sometimes produce incorrect or misleading information. I do not take responsibility for the validity of the content. Though I aim to ensure that the answers reflect common sense, I encourage you to cross-check facts and verify information through trusted sources. You are also welcome to reach out to me with suggestions for improvement.
