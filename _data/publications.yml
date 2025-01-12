@@ -5,6 +5,7 @@
       title: "Integrated single-cell atlas of human atherosclerotic plaques."
       biorxiv: 612431
       biorxiv_link: https://www.biorxiv.org/content/10.1101/2024.09.11.612431v1
+      main_affiliation: Roche Diagnostics GmbH (Penzberg, Germany)
 
 - year: 2022
   publications:
@@ -13,6 +14,7 @@
       doi: "10.1038/s41586-022-05275-y"
       pmid: 36224396
       journal: "Nature."
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Aragam KG et al."
       title: "Discovery and systematic characterization of risk variants and genes for coronary artery disease in over a million participants."
       medrxiv: 21257377
@@ -20,6 +22,7 @@
       journal: Nat Genetics.
       doi: "10.1038/s41588-022-01233-6"
       pmid: 36474045
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Ramdas S et al."
       title: "A multi-layer functional genomic analysis to understand noncoding genetic variation in lipids."
       biorxiv: 470215
@@ -27,6 +30,7 @@
       journal: American J Hum Genet.
       pmid: 35931049
       doi: "10.1016/j.ajhg.2022.06.012"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Kanoni S et al."
       title: "Implicating genes, pleiotropy and sexual dimorphism at blood lipid loci through multi-ancestry meta-analysis."
       medrxiv: 21267852
@@ -34,7 +38,8 @@
       journal: "Genome Biol."
       pmid: 36575460
       doi: "10.1186/s13059-022-02837-1"
-      
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
+
 - year: 2021
   publications:
     - authors: "Graham SE et al."
@@ -42,21 +47,25 @@
       journal: "Nature."
       doi: "10.1038/s41586-021-04064-3"
       pmid: 34887591
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Freitag-Wolf S, <b>Munz M</b> et al."
       title: "Sex-specific genetic factors affect the risk of early-onset periodontitis."
       journal: "J Clin Periodontol."
       doi: "10.1111/jcpe.13538"
       pmid: 34409643
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Ramzan S et al."
       title: "A novel missense mutation in TNNI3K causes recessively inherited cardiac conduction disease in a consanguineous Pakistani family."
       journal: "Genes."
       pmid: 34440456
       doi: "10.3390/genes12081282"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Salviano-Silva A et al."
       title: "Genetic association and differential expression of HLA Complex Group lncRNAs in pemphigus."
       journal: "J Autoimmun."
       doi: "10.1016/j.jaut.2021.102705"
       pmid: "34325306"
+      main_affiliation: Institute of Experimental Dermatology, University of Lübeck (Germany)
     - authors: "<b>Munz M</b><sup>*</sup>, Khodaygani M<sup>*</sup> et al."
       title: "In silico candidate variant and gene identification using inbred mouse strains."
       journal: "PeerJ."
@@ -64,6 +73,7 @@
       biorxiv_link: https://doi.org/10.1101/2020.09.04.282731
       doi: "10.7717/peerj.11017"
       pmid: 33763305
+      main_affiliation: Institute of Experimental Dermatology, University of Lübeck (Germany)
     - authors: "Zeng L et al."
       title: "Cis-epistasis at the LPA locus and risk of cardiovascular diseases."
       journal: "Cardiovasc Res."
@@ -71,7 +81,8 @@
       biorxiv_link: https://doi.org/10.1101/518290
       doi: 10.1093/cvr/cvab136
       pmid: 33878186
-      
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
+
 - year: 2020
   publications:
     - authors: "<b>Munz M</b> et al."
@@ -81,6 +92,7 @@
       biorxiv_link: https://doi.org/10.1101/495903
       doi: "10.1038/s41598-020-75770-7"
       pmid: 33235230
+      main_affiliation: Institute of Experimental Dermatology, University of Lübeck (Germany)
     - authors: "Wohlers I, Kuenstner A, <b>Munz M</b> et al."
       title: "An integrated personal and population-based Egyptian genome reference."
       journal: "Nat Commun."
@@ -88,21 +100,25 @@
       biorxiv_link: https://doi.org/10.1101/681254
       pmid: 32948767
       doi: "10.1038/s41467-020-17964-1"
+      main_affiliation: Institute of Experimental Dermatology, University of Lübeck (Germany)
     - authors: "Wienbergen et al."
       title: "New Technologies for Intensive Prevention Programs After Myocardial Infarction – Rationale and Design of the NET-IPP-Study."
       journal: "Clin Res Cardiol."
       doi: "10.1007/s00392-020-01695-w"
       pmid: 32734504
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Nashef A<sup>*</sup>, <b>Munz M</b><sup>*</sup> et al."
       title: "Translation of mouse model to human gives insights into periodontitis etiology."
       journal: "Sci Rep."
       pmid: 32184465
       doi: "10.1038/s41598-020-61819-0"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Zheng Y et al."
       title: "Mendelian randomization analysis does not support causal associations of birth weight with hypertension risk and blood pressure in adulthood."
       journal: "Eur J Epidemiol."
       pmid: 32383070
       doi: "10.1007/s10654-020-00638-z"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
 
 - year: 2019
   publications:
@@ -111,31 +127,37 @@
       journal: "J Dent Res."
       pmid: 31537151
       doi: "10.1177/0022034519875443"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Wienbergen H et al."
       title: "Long-term prevention after myocardial infarction in young patients ≤45 years: the Intensive Prevention Program in the Young (IPP-Y) study."
       journal: "Eur Heart J."
       pmid: 31674209
       doi: "10.1177/2047487319883960"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Clark D et al."
       title: "Associations of autozygosity with a broad range of human phenotypes."
       journal: "Nat Commun."
       pmid: 31673082
       doi: "10.1038/s41467-019-12283-6"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Richter GM, Kruppa J, <b>Munz M</b> et al."
       title: "A combined epigenome- and transcriptome-wide association study of the solid oral mucosa assigns CYP1B1 a central role for epithelial health in smokers."
       journal: "Clin Epigenetics."
       pmid: 31331382
       doi: "10.1186/s13148-019-0697-y"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Kessler T et al."
       title: "Association of the coronary artery disease risk gene GUCY1A3 with onaspirin platelet reactivity and ischemic events after coronary intervention."
       journal: "Cardiovasc Res."
       pmid: 30768153
       doi: "10.1093/cvr/cvz015"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Bejaoui Y et al."
       title: "Genome-wide association study of psoriasis in an Egyptian population."
       journal: "Exp Dermatol."
       pmid: 30921485
       doi: "10.1111/exd.13926"
+      main_affiliation: Institute of Experimental Dermatology, University of Lübeck (Germany)
 
 - year: 2018
   publications:
@@ -144,36 +166,43 @@
       journal: "Biomol."
       pmid: 30563176
       doi: "10.3390/biom8040164"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "<b>Munz M</b> et al."
       title: "Meta-analysis of genome-wide association studies of aggressive and chronic periodontitis identifies two novel risk loci."
       journal: "Eur J Hum Genet."
       pmid: 30218097
       doi: "10.1038/s41431-018-0265-5"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "<b>Munz M</b> et al."
       title: "Genome-wide association meta-analysis of coronary artery disease and periodontitis reveals a novel shared risk locus."
       journal: "Sci Rep."
       pmid: 30209331
       doi: "10.1038/s41598-018-31980-8"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Offenbacher S el al."
       title: "GWAS for Interleukin-1β levels in gingival crevicular fluid identifies IL37 variants in periodontal inflammation."
       journal: "Nat Commun."
       pmid: 0206230
       doi: "10.1038/s41467-018-05940-9"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Aarabi G et al."
       title: "Roles of the Chr.9p21.3 ANRIL Locus in Regulating Inflammation and Implications for Anti-Inflammatory Drug Target Identification."
       journal: "Front Cardiovasc Med."
       pmid: 29868613
       doi: "0.3389/fcvm.2018.00047"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Nashef A, Qabaja R, Salaymeh Y, Botzman M, <b>Munz M</b> et al."
       title: "Integration of Murine and Human Studies for Mapping Periodontitis Susceptibility."
       journal: "J Dent Res."
       pmid: 29294296
       doi: "10.1177/0022034517744189"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Schaich A, Westermaier AL, <b>Munz M</b> et al."
       title: "Mental health and psychosocial functioning over the lifespan of German patients undergoing cardiac catheterization for coronary artery disease."
       journal: "Front Psychiatry."
       pmid: 29593584
       doi: "10.3389/fpsyt.2018.00075"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
 
 - year: 2017
   publications:
@@ -182,26 +211,31 @@
       journal: "Hum Mol Genet."
       pmid: 28449029
       doi: "10.1093/hmg/ddx151"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "<b>Munz M</b><sup>*</sup>, Chen H<sup>*</sup>et al."
       title: "A haplotype block downstream of plasminogen is associated with chronic and aggressive periodontitis."
       journal: "J Clin Periodontol."
       pmid: 28548211
       doi: "10.1111/jcpe.12749"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Shusterman A, <b>Munz M</b> et al."
       title: "The PF4/PPBP/CXCL5 Gene Cluster Is Associated with Periodontitis."
       journal: "J Dent Res."
       pmid: 28467728
       doi: "10.1177/0022034517706311"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
     - authors: "Eitel I, Moeller C, <b>Munz M</b> et al."
       title: "Genome wide association study in takotsubo syndrome - Preliminary results and future directions."
       journal: "Int J Cardiol."
       pmid: 28108127
       doi: "10.1016/j.ijcard.2017.01.093"
+      main_affiliation: Institute for Cardiogenetics, University of Lübeck (Germany)
     - authors: "Haycock PC et al."
       title: "Association Between Telomere Length and Risk of Cancer and Non-Neoplastic Diseases."
       journal: "JAMA Oncol."
       pmid: 28241208
       doi: "10.1001/jamaoncol.2016.5945"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité – University Medicine Berlin (Germany)
 
 - year: 2016
   publications:
@@ -210,6 +244,7 @@
       journal: "Hum Mol Genet."
       pmid: 26962152
       doi: "10.1093/hmg/ddw069"
+      main_affiliation: Department of Periodontology, Oral Medicine and Oral Surgery, Charité - University Medicine Berlin (Germany)
 
 - year: 2015
   publications:
@@ -218,8 +253,10 @@
       journal: "Nucl Acids Res."
       pmid: 25990726
       doi: "10.1093/nar/gkv511"
+      main_affiliation: Technical University of Braunschweig (Germany)
     - authors: "Tinhofer I et al."
       title: "Next-generation sequencing: hype and hope for development of personalized radiation therapy?"
       journal: "Radiat Oncol."
       pmid: 26316159
       doi: "10.1186/s13014-015-0481-x"
+      main_affiliation: Institute for Theoretical Biology, Humboldt University (Berlin, Germany)
