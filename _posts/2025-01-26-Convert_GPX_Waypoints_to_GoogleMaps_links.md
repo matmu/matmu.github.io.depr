@@ -15,7 +15,21 @@ Dieses Jahr werden meine Eltern mit dem Wohnmobil Sizilien bereisen. Zur Navigat
 
 Bei Google Maps gibt es allerdings keine Möglichkeit, die GPX-Datei zu importieren. Mit [Google My Maps](https://www.google.com/mymaps) ist der GPX-Import zwar möglich, die erstellte Karte kann aber nicht zur Navigation in Google Maps verwendet werden.
 
-Ich habe daher ein [R-Skript](https://github.com/matmu/gpx-toolbox/blob/main/gpx2maps_url.R) geschrieben, welches die Wegpunkte in der GPX-Datei in Links zu Google Maps und zu Apple Maps umwandelt und in einer Excel-Datei gespeichert. Die Excel-Datei kann dann auf dem Handy geöffnet und durch Ausführen der Links ein Wegpunkt in Google Maps bzw. Apple Maps geöffnet werden.
+Ich habe daher ein [R-Skript](https://github.com/matmu/gpx-toolbox/blob/main/gpx2maps_url.R) geschrieben, welches die Wegpunkte in der GPX-Datei in Links zu Google Maps und zu Apple Maps umwandelt und in einer Excel-Datei gespeichert. Die Excel-Datei kann dann auf dem Handy geöffnet und durch Ausführen der Links ein Wegpunkt in Google Maps bzw. Apple Maps geöffnet werden. Im Folgenden eine beispielhafte GPX-Datei mit Dezimal-Koordinaten und die entsprechenden URLs:
+
+```
+<gpx>
+  <wpt lat="38.124444444" lon="13.368055556">
+    <name>Ex1</name>
+  </wpt>
+</gpx>
+```
+
+**URL zu Google Maps:**<br/>
+[https://maps.google.com/?q=38.124444444,13.368055556&ll=38.124444444,13.368055556&z=12](https://maps.google.com/?q=38.124444444,13.368055556&ll=38.124444444,13.368055556&z=12)
+
+**URL zu Apple Maps:**<br/>
+[https://maps.apple.com/?q=38.124444444,13.368055556](https://maps.apple.com/?q=38.124444444,13.368055556)
 
 Für ihre letzte Reise nach Schottland hat sich diese Methode als äußerst praktisch erwiesen. Anstatt mit unterschiedlichen Apps zu experimentieren, konnten sie einfach auf die Links in der Excel-Datei klicken und direkt zu den beschriebenen Spots navigieren.
 
@@ -27,6 +41,20 @@ This year my parents will be traveling to Sicily in their motorhome. Google Maps
 
 However, Google Maps does not offer the option of importing the GPX file. GPX import is possible with [Google My Maps](https://www.google.com/mymaps), but the map created cannot be used for navigation in Google Maps.
 
-I have therefore written an [R script](https://github.com/matmu/gpx-toolbox/blob/main/gpx2maps_url.R) which converts the waypoints in the GPX file into links to Google Maps and Apple Maps and saves them in an Excel file. The Excel file can then be opened on the cell phone and a waypoint can be opened in Google Maps or Apple Maps by executing the links.
+I have therefore written an [R script](https://github.com/matmu/gpx-toolbox/blob/main/gpx2maps_url.R) which converts the waypoints in the GPX file into links to Google Maps and Apple Maps and saves them in an Excel file. The Excel file can then be opened on the cell phone and a waypoint can be opened in Google Maps or Apple Maps by executing the links. Below is an example GPX file with decimal coordinates and the corresponding URLs:
+
+```
+<gpx>
+  <wpt lat="38.124444444" lon="13.368055556">
+    <name>Ex1</name>
+  </wpt>
+</gpx>
+```
+
+**URL to Google Maps:**<br/>
+[https://maps.google.com/?q=38.124444444,13.368055556&ll=38.124444444,13.368055556&z=12](https://maps.google.com/?q=38.124444444,13.368055556&ll=38.124444444,13.368055556&z=12)
+
+**URL to Apple Maps:**<br/>
+[https://maps.apple.com/?q=38.124444444,13.368055556](https://maps.apple.com/?q=38.124444444,13.368055556)
 
 For their recent trip to Scotland, this method proved to be extremely practical. Instead of experimenting with different apps, they could simply click on the links in the Excel file and navigate directly to the described spots.
