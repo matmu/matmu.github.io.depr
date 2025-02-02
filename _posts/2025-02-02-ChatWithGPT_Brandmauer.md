@@ -1,6 +1,6 @@
 ---
 title: "Chat with GPT: Darf eine gemäßigte Partei in einer Demokratie Gesetze mit Stimmen einer teils rechtsextremen Partei beschließen?"
-tags: Programming
+tags: ChatWithGPT
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"
