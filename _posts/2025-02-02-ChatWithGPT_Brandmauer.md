@@ -1,5 +1,5 @@
 ---
-title: "Chat with GPT: Darf eine gemäßigte Partei in einer Demokratie Gesetze nur mit Stimmen einer teils rechtsextremen Partei beschließen?"
+title: "Chat with GPT: Darf eine gemäßigte Partei in einer Demokratie Gesetze mit Stimmen einer teils rechtsextremen Partei beschließen?"
 tags: Programming
 toc: true
 toc_label: "Content"
@@ -75,7 +75,7 @@ Wenn rechtsextreme Parteien trotz Brandmauer an Einfluss gewinnen, stehen demokr
 
 
 ## ChatGPT's answer
-**Chat with GPT: Should a moderate party in a democracy only be allowed to pass laws with the votes of a partly far-right party?**
+**Chat with GPT: May a moderate party in a democracy pass laws with the votes of a partly far-right party?**
 
 If a party from the political center pushes through laws exclusively with the votes of a far-right or partially far-right party such as the AfD, this is politically and ethically highly problematic, even if this party was democratically elected. Even if such an approach appears formally legitimate, it has far-reaching consequences for political culture, the perception of extremism and the stability of the democratic system.
 
