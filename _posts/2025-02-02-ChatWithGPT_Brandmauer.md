@@ -7,7 +7,7 @@ toc_icon: "fas fa-file-alt"
 ---
 
 
-Wenn eine Partei aus der politischen Mitte Gesetze ausschließlich mit den Stimmen einer rechtsextremen oder in Teilen rechtsextremen Partei wie der AfD durchbringt, ist das politisch und ethisch höchst problematisch, selbst wenn diese Partei demokratisch gewählt wurde. Auch wenn ein solches Vorgehen formal legitim erscheint, hat es weitreichende Konsequenzen für die politische Kultur, die Wahrnehmung von Extremismus und die Stabilität des demokratischen Systems.  
+Wenn eine Partei aus der politischen Mitte Gesetze ausschließlich mit den Stimmen einer rechtsextremen oder in Teilen rechtsextremen Partei wie der deutschen Partei "Alternative für Deutschland" (AfD) durchbringt, ist das politisch und ethisch höchst problematisch, selbst wenn diese Partei demokratisch gewählt wurde. Auch wenn ein solches Vorgehen formal legitim erscheint, hat es weitreichende Konsequenzen für die politische Kultur, die Wahrnehmung von Extremismus und die Stabilität des demokratischen Systems.  
 
 
 # Deutsch
@@ -77,7 +77,8 @@ Wenn rechtsextreme Parteien trotz Brandmauer an Einfluss gewinnen, stehen demokr
 ## ChatGPT's answer
 **Chat with GPT: May a moderate party in a democracy pass laws with the votes of a partly far-right party?**
 
-If a party from the political center pushes through laws exclusively with the votes of a far-right or partially far-right party such as the AfD, this is politically and ethically highly problematic, even if this party was democratically elected. Even if such an approach appears formally legitimate, it has far-reaching consequences for political culture, the perception of extremism and the stability of the democratic system.
+If a party from the political center pushes through laws exclusively with the votes of a far-right or partially far-right party such as the German party "Alternative for Germany" (AfD), this is politically and ethically highly problematic, even if this party was democratically elected. Even if such an approach appears formally legitimate, it has far-reaching consequences for political culture, the perception of extremism and the stability of the democratic system.
+
 
 ### 1. Democratic legitimacy vs. political responsibility
 From a purely formal point of view, the achievement of a parliamentary majority is democratically legitimate. In a democratic system, the majority decides, and if a legislative initiative is passed with an arithmetical majority, this corresponds to the intended procedure. However, democratic responsibility does not end with formal legitimacy. Parties in the political center also have a responsibility towards the principles of democracy and political culture.
