@@ -1,6 +1,6 @@
 ---
 title: "Eitzenberger Weiher: Der idyllische Allrounder für jede Jahreszeit"
-tags: Trip
+tags: Trips
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"

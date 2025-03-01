@@ -1,5 +1,5 @@
 ---
-title: "Liveaboard Diving Red Sea on MY Blue Storm"
+title: "Diving safari in the Red Sea on the MY Blue Storm"
 tags:
   - Diving
 toc: true

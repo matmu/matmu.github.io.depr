@@ -1,0 +1,34 @@
+---
+title: "From academia to longevity: ensuring my software lives on"
+tags: Programming
+toc: true
+toc_label: "Content"
+toc_icon: "fas fa-file-alt"
+---
+
+In the summer of 2020, I bid farewell to academia and transitioned into the pharmaceutical industry, where I have been ever since. Prior to that, from 2015 onward, I spent around six years as a PhD student and postdoc at the university. During this time, a significant part of my work revolved around developing software tools to analyse large-scale biomedical datasets. Some of these tools evolved into larger projects that were eventually published as R packages in the Bioconductor respository ([MouseFM](https://www.bioconductor.org/packages/release/bioc/html/MouseFM.html) and [Qtlizer](https://bioconductor.org/packages/release/bioc/html/Qtlizer.html)) or made available as web-based services ([Genehopper](http://genehopper.de) and [Qtlizer](http://genehopper.de/qtlizer)).
+
+## English
+
+However, the maintenance of academic software is often associated with a short term expiration date, as there is rarely successor to take over the maintenance. Prof. Jeanette Erdmann ([†2023](https://iieglabletters.blogspot.com/2023/07/profound-void-in-our-hearts.html)), former head of the [Institute of Cardiogenetics](https://www.cardiogenetics-luebeck.de/) at the University of Lübeck, where I spent my PhD, generously covered the hosting costs for as long as required by the journals for software availability. This time, however, has passed already for while. Since then, I wrestled with the decision of what to do next.
+
+On the one hand, the simplest option would have been to shut everything down. On the other hand, these tools represent years of effort, dedication, and passion, an important part of my time in academia that I don't want to simply erase. More importantly, they are still being used. Though the underlying database is aging, the core functionalities remain intact, and I occasionally receive messages from users who rely on these tools, especially when the servers temporarily go offline due to delayed payments.
+
+Ultimately, I decided not to let go but instead to package the server-side software in a way that makes it easier to maintain and run in the long term with minimal intervention. My solution? Put the software into Docker containers.
+
+[Docker](https://www.docker.com/) is a containerization technology that I've been using Docker for a while now. It still brings a smile to my face every time I see how effortlessly it simplifies things by eliminating dependency issues. It allows applications to be packaged with all their dependencies, libraries, and configurations in an isolated environment. Unlike traditional server setups where software installations can become cumbersome and system dependencies may break over time, Docker ensures that the software runs exactly the same way, no matter where it is deployed, whether on a local machine, a cloud instance, or a different server altogether.
+
+Using Docker, I was able to move my services to a new virtual private server (VPS) with minimal effort and, in the process, cut hosting costs by two-thirds. Now, my tools continue to run with significantly lower maintenance overhead, ensuring that they remain available to the research community for the foreseeable future. I will miss the last occasional contact with the few faces I still know at the institute.
+
+## Deutsch
+Im Sommer 2020 habe ich mich von akademischen Welt verabschiedet und bin in die pharmazeutische Industrie gewechselt, wo ich seither tätig bin. Zuvor war ich ab 2015 rund sechs Jahre lang als Doktorand und Postdoc im universitären Umfeld tätig. Während dieser Zeit drehte sich ein großer Teil meiner Arbeit um die Entwicklung von Software-Tools zur Analyse großer biomedizinischer Datenmengen. Einige dieser Tools entwickelten sich zu größeren Projekten, die schließlich als R-Pakete im Bioconductor-Repository veröffentlicht ([MouseFM](https://www.bioconductor.org/packages/release/bioc/html/MouseFM.html) und [Qtlizer](https://bioconductor.org/packages/release/bioc/html/Qtlizer.html)) oder als webbasierte Dienste zur Verfügung gestellt wurden ([Genehopper](http://genehopper.de) und [Qtlizer](http://genehopper.de/qtlizer)).
+
+Die Wartung von akademischer Software ist jedoch oft mit einem kurzfristigen Verfallsdatum verbunden, da es selten Nachfolger gibt, die die Pflege übernehmen. Prof. Jeanette Erdmann ([†2023](https://iieglabletters.blogspot.com/2023/07/profound-void-in-our-hearts.html)), ehemalige Leiterin des [Instituts für Kardiogenetik](https://www.cardiogenetics-luebeck.de/) an der Universität Lübeck, wo ich promoviert habe, übernahm netterweise die Hosting-Kosten so lange, wie es die Journals für die Verfügbarkeit der Software forderten. Diese Zeit ist allerdings schon seit einiger Zeit vorbei und seitdem habe ich mit der Entscheidung gerungen, wie es weitergehen soll.
+
+Einerseits wäre es die einfachste Lösung gewesen, alles abzuschalten. Andererseits stecken in diesen Tools jahrelange Mühe, Hingabe und Leidenschaft - ein wichtiger Teil meiner Zeit in der Wissenschaft, den ich nicht missen möchte. Noch wichtiger ist, dass sie immer noch genutzt werden. Obwohl die Datenbank in die Jahre gekommen ist, funktionieren sie immer noch problemlos und ich erhalte gelegentlich Nachrichten von Nutzern, die sich auf diese Tools verlassen, wenn die Server aufgrund von Zahlungsverzögerungen vorübergehend offline gehen.
+
+Letztendlich habe ich mich dazu entschieden, nicht loszulassen, sondern die serverseitige Software so zu verpacken, dass sie einfacher zu warten ist und langfristig mit minimalen Eingriffen betrieben werden kann. Meine Lösung? Ich packte die Software in Docker-Container.
+
+[Docker](https://www.docker.com/) ist eine Containerisierungs-Technologie, die ich schon seit einiger Zeit verwende. Es zaubert mir immer noch jedes Mal ein Lächeln ins Gesicht, wenn ich sehe, wie mühelos sie die Dinge vereinfacht, indem sie Abhängigkeitsprobleme beseitigt. Sie ermöglicht es, Anwendungen mit all ihren Abhängigkeiten, Bibliotheken und Konfigurationen in eine isolierte Umgebung zu verpacken. Anders als bei traditionellen Server-Setups, bei denen Softwareinstallationen oft mühsam sind und Systemabhängigkeiten im Laufe der Zeit brechen können, stellt Docker sicher, dass die Software überall genau gleich läuft, egal ob auf einem lokalen Rechner, einer Cloud-Instanz oder einem anderen Server.
+
+Mit Docker konnte ich meine Services mit minimalem Aufwand auf einen neuen Virtual Private Server (VPS) umziehen und dabei die Hosting-Kosten um zwei Drittel senken. Nun laufen meine Tools mit deutlich geringerem Wartungsaufwand weiter, so dass sie der Forschungsgemeinschaft auch in absehbarer Zukunft zur Verfügung stehen werden. Ich werde den letzten gelegentlichen Kontakt mit den wenigen Gesichtern vermissen, die ich am Institut noch kenne.
