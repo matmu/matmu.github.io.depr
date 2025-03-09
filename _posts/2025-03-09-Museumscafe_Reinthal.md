@@ -28,7 +28,7 @@ An diesem herrlichen März-Wochenende haben meine Familie und ich das milde und 
 
 
 # Deutsch
-Unsere Tour startete am Bahnhof in Penzberg und führte uns zunächst an den Bahntrassen in Richtung Iffeldorf und dann weiter durch den Wald und über die Autobahn in Richtung Antdorf. Besonders gefallen hat uns die Abwechslung der Strecke. Bis auf einen kurzen Abschnitt in Habach ist man ausschließlich auf Nebenstraßen oder Feldwegen mit wenig Verkehr unterwegs. Es gibt mehrere kurze Anstiege, die aber für geübte Radfahrer leicht zu meistern sind. Entlang der Strecke gibt es mehrere Bänke, die sich perfekt für eine kleine Rast eignen.
+Unsere Tour startete am Bahnhof in Penzberg und führte uns zunächst an den Bahntrassen in Richtung Iffeldorf und dann weiter durch den Wald und über die Autobahn in Richtung Antdorf. Besonders gefallen hat uns die Abwechslung der Strecke. Bis auf einen kurzen Abschnitt in Antdorf ist man ausschließlich auf Nebenstraßen oder Feldwegen mit wenig Verkehr unterwegs. Es gibt mehrere kurze Anstiege, die aber für geübte Radfahrer leicht zu meistern sind. Entlang der Strecke gibt es mehrere Bänke, die sich perfekt für eine kleine Rast eignen.
 
 Nach etwa eineinhalb Stunden gemütlicher Fahrt mit Pause erreichten wir unser Ziel: das [Museumscafé Reinthal](https://www.museumscafe-habach.de/) zwischen Habach und Obersöchering. An Wochenenden und bei schönem Wetter bietet das Café eine große Auswahl an hausgemachten Kuchen, die sich perfekt als Belohnung nach der Radtour eignen. Das Café hat eine sehr entspannte Atmosphäre und wird hauptsächlich von Radfahrern besucht. Besonders gefallen haben uns die Sitzmöglichkeiten unter freiem Himmel auf der Straße vor dem Café.
 
