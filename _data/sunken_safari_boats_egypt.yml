@@ -107,7 +107,7 @@
       url: "https://taucher.net/diveinside-kurzanalyse_zur_kenterung_des_tauchsafaribootes_m_y_carlton_queen-kaz8984"
 
 - boat_name: "M/Y Scuba Scene"
-  fleet_name: "Golden Dolphin Safari World Fleet"
+  fleet_name: "Dive Pro Liveaboard"
   date_of_incident: "2022-04-19"
   location: "Near Hurghada"
   reported_cause: "Fire on board shortly after departure"
@@ -118,6 +118,8 @@
       url: "https://www.scubaverse.com/m-y-scuba-scene-official-statement/"
     - text: "taucher.net"
       url: "https://taucher.net/liveaboard-m_y_scuba_scene-baz14695"
+    - text: "bild.de"
+      url: "http://bild.de/news/ausland/dritte-jacht-gesunken-ungluecksserie-bei-todes-reederei-im-roten-meer-674617f764c51072bc21b87b"
 
 - boat_name: "Red Sea Aggressor I"
   fleet_name: "Aggressor Fleet"
