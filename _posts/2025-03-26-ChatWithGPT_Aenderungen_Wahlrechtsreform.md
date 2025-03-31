@@ -14,7 +14,9 @@ Im März 2023 hat der deutsche Bundestag eine umfassende Reform des deutschen Wa
 ## Disclaimer
 {{ site.data.chat_with_gpt.disclaimer_deutsch }}
 
-# Was hat sich geändert?
+## Antwort von ChatGPT
+
+### Was hat sich geändert?
 Die Reform bringt vor allem drei wichtige Änderungen:
 
 1. **Fester Bundestag mit 630 Sitzen:**
@@ -26,7 +28,7 @@ Früher konnte es passieren, dass eine Partei mehr Direktmandate (Erststimme) ge
 3. **"Grundmandatsklausel" fällt weg:**
 Früher galt, wenn eine Partei unter 5% lag, aber mindestens 3 Direktmandate gewann, durfte sie trotzdem mit allen Zweitstimmen in den Bundestag einziehen. Diese Ausnahme entfällt.
 
-# Rechenbeispiel
+### Rechenbeispiel
 <table>
   <thead>
     <tr>
@@ -78,7 +80,7 @@ Früher führte das Wahlergebnis oft zu einem stark aufgeblähten Bundestag. Im 
 
 Seit der Wahlrechtsreform 2023 ist das anders: Es gibt keine Überhang- und Ausgleichsmandate mehr und Partei A darf nur 221 Sitze behalten, die überzähligen 19 Direktmandate verfallen. Die Direktmandate mit den „schwächsten“ Ergebnissen verfallen zuerst und jene aus Wahlkreisen mit den höchsten Stimmenanteilen bleiben erhalten. Partei B und C bekommen genau so viele Sitze, wie ihnen laut Zweitstimmen zustehen. Ihre Direktmandate werden angerechnet, der Rest kommt von der Liste.
 
-# Fazit
+### Fazit
 Die Wahlrechtsreform von 2023 hat das deutsche Wahlsystem grundlegend verändert und deutlich vereinfacht. Die Sitzverteilung im Bundestag richtet sich nun ausschließlich nach dem Zweitstimmenergebnis. Dadurch entfällt die komplizierte Berechnung von Überhang- und Ausgleichsmandaten, die in der Vergangenheit regelmäßig zu einem stark aufgeblähten Parlament geführt hat. Statt eines Bundestags mit über 700 Abgeordneten bleibt die Größe nun konstant bei 630 Sitzen. Das macht das System nicht nur schlanker und kostengünstiger, sondern vor allem auch transparenter und gerechter. Die Verhältnisse im Parlament spiegeln nun viel direkter den Wählerwillen wider, weil keine Partei mehr durch viele Direktmandate einen Vorteil erhält, der nicht durch Zweitstimmen gedeckt ist.
 
 Damit hat allerdings auch die Erststimme an Bedeutung verloren. Zwar entscheidet sie weiterhin darüber, welche Kandidatin oder welcher Kandidat den Wahlkreis gewinnt, aber diese Direktmandate zählen nur dann, wenn sie in das Gesamtergebnis der Partei nach Zweitstimmen passen. Wer also wirklich Einfluss auf die Zusammensetzung des Bundestags nehmen möchte, sollte vor allem die Zweitstimme bewusst einsetzen.
