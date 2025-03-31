@@ -1,4 +1,41 @@
 ---
+- year: 2025
+  routes:
+  - name: Porci con le ali
+    date: 28.03.2025
+    wall: Parete di San Paolo
+    country: Italy
+    region: Arco / Lago di Garda
+    partner: I.K.
+    UIAA: 6+
+    ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/788981253
+    ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/via-porci-con-le-ali-arco-san-paolo/
+  - name: Via Nereidi
+    date: 29.03.2025
+    wall: Parete di San Paolo
+    country: Italy
+    region: Arco / Lago di Garda
+    partner: I.K.
+    UIAA: 6
+    ref_thecrag: https://www.thecrag.com/de/klettern/italy/parete-san-paolo/route/323172216
+    ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/via-nereidi-arco-san-paolo/
+  - name: Palma
+    date: 29.03.2025
+    wall: Croce di Ceniga
+    country: Italy
+    region: Arco / Lago di Garda
+    partner: I.K.
+    UIAA: 6+
+    ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/palma-croce-di-ceniga/
+  - name: Luca Franz Franceschini
+    date: 30.03.2025
+    wall: Cima alle Coste
+    country: Italy
+    region: Arco / Lago di Garda
+    partner: I.K.
+    UIAA: 6+
+    ref_thecrag: https://www.thecrag.com/en/climbing/italy/arco/route/5226881244
+    ref_bergsteigen: https://www.bergsteigen.com/touren/klettern/luca-franz-franceschini-cima-alle-coste-sud/
 - year: 2024
   routes:
     - name: Der kleine Prinz
