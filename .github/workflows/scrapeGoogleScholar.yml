@@ -22,7 +22,7 @@ jobs:
           node-version: '16' # Specify the Node.js version you are using
 
       - name: Install dependencies
-        run: npm install puppeteer js-yaml fs
+        run: npm install puppeteer-extra puppeteer-extra-plugin-stealth puppeteer js-yaml
 
       - name: Run scrape script
         run: node scripts/scrapeGoogleScholar.js
