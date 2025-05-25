@@ -80,7 +80,10 @@ Stattdessen habe ich dann noch in mehreren Camper-Foren um Unterstützung aus de
 Zu unserer Erleichterung gab es keine großen Überraschungen und wir konnten nur kleinere Mängel wie zum Beispiel die nicht plan aufliegende Herdplatten-Abdeckung feststellen. Lediglich die im Kaufvertrag gelisteten Voll-LED-Scheinwerfer haben sich bei der näheren Betrachtung als Standard-Scheinwerfer mit LED-Tagfahrlicht herausgestellt. Voll-LED wäre natürlich toll gewesen, aber mit der Minderung des Kaufpreises um den entsprechenden Posten waren wir auch einverstanden.
 
 
-# English
+# English (DeepL)
+
+**The family adventure begins: our journey to our own camper van**
+
 Owning my own camper has been a dream of mine for a long time. To stop wherever it's nice and discover Europe on my own. The dream never really materialized, but then everything happened very quickly.
 
 ## Save, save, build a house - is it really that important?
