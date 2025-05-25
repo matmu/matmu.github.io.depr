@@ -18,11 +18,14 @@ async function scrapeGoogleScholar(authorId, outputYML, outputJson) {
   const url = `https://scholar.google.com/citations?user=${authorId}`;
   console.log('Opening page: ' + url);
 
+  // Navigate to the author's Google Scholar page
   const response = await page.goto(url, { waitUntil: 'networkidle2', timeout: 15000 });
 
+  // Handle page load errors with a warning
   if (!response || !response.ok()) {
-    await page.screenshot({ path: 'error_loading_page.png' });
-    throw new Error(`Failed to load page: ${url} (status ${response?.status()})`);
+    console.warn(`⚠️ Warning: Failed to load page: ${url} (status ${response?.status() || 'unknown'})`);
+    await browser.close();
+    return;
   }
 
   try {
@@ -69,20 +72,18 @@ async function scrapeGoogleScholar(authorId, outputYML, outputJson) {
     fs.writeFileSync(outputJson, JSON.stringify(jsonData, null, 2), 'utf8');
 
     console.log('✅ Data appended to ' + outputYML + ' and ' + outputJson);
-    await browser.close();
   } catch (error) {
-    // Save screenshot for debugging
-    const screenshotPath = path.resolve('error_scraping.png');
-    await page.screenshot({ path: screenshotPath });
-    console.error('❌ Error during scraping:', error);
+    // Log a warning if scraping fails
+    console.warn('⚠️ Warning during scraping:', error.message);
+  } finally {
+    // Ensure browser closes cleanly
     await browser.close();
-    process.exit(1);
   }
 }
 
 // Global error handler
 scrapeGoogleScholar('YqZW19IAAAAJ', '_data/googlescholar_stats.yml', '_data/googlescholar_stats.json')
   .catch(err => {
-    console.error('❌ Script failed to run:', err);
-    process.exit(1);
+    // Log error without exiting
+    console.warn('⚠️ Script failed to run:', err.message);
   });
