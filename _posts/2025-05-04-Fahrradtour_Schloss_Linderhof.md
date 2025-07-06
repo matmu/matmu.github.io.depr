@@ -59,7 +59,7 @@ There are only a few places to stop for refreshments along the way: Right at the
 Overall, the visit to the castle grounds with its well-kept gardens and fountains was quite nice, but not something we would do again. We were disturbed by the fact that there is no official side entrance on the north side of the grounds, even though a cycle and hiking path runs past here. But if you are looking for peace and nature, you will have a lot of fun on the bike tour.
 
 
-## Gallery
+# Gallery
 {% include gallery %}
 
 
