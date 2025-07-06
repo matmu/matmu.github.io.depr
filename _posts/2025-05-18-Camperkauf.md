@@ -48,7 +48,7 @@ Also warum nicht jetzt schon einen kleineren Wunsch verwirklichen, statt ewig au
 Sofort hat mich der Gedanke gepackt und auch meine Familie war schnell überzeugt. Wir haben schon etwas Camper-Erfahrung: in 2018 sind wir für ca. 4 Wochen mit dem Wohnmobil (Hymer Exsis I) durch die Schweiz und Südfrankreich gereist. Ein wunderbarer Urlaub, an den wir alle gern zurückdenken.
 
 ## Anforderungen
-Nach ausgiebiger Online-Recherche im Januar/Februar und dem Besuch der CMT 2025 in Stuttgart, war klar, dass es ein junger gebrauchter Kastenwagen-Camper, möglichst mit Restgarantie, werden soll und zwar mit den folgenden Mindest-Anforderungen:
+Nach ausgiebiger Online-Recherche im Januar/Februar und dem Besuch der CMT 2025 in Stuttgart, war klar, dass es ein junger gebrauchter Kastenwagen-Camper werden soll, möglichst mit Restgarantie und den folgenden Mindest-Anforderungen:
 
 - Gebraucht mit Restgarantie bis 20k Kilometer
 - Preisobergrenze 60k €
@@ -56,7 +56,7 @@ Nach ausgiebiger Online-Recherche im Januar/Februar und dem Besuch der CMT 2025 
 - Länge: 600cm
 - Sitz- und Schlafplätze für 4 Personen
 - Schlafmöglichkeiten hinten für zwei Personen hinten (kein Stockbett)
-- Aufstelldach für zwei Personen
+- Aufstelldach mit Schlafmöglichkeit für zwei Personen
 - Sanitäre Anlagen in einem abgetrennten Raum (d.h. keine Raumlösung bzw. Lösung im Gang)
 - Rückfahrkamera
 - Navi/Autoradio mit Apple/Android Carplay-Unterstützung
@@ -77,7 +77,18 @@ Da ich aus Erfahrungsberichten wusste, dass solche Werkstattdurchsichten nicht i
 
 Stattdessen habe ich dann noch in mehreren Camper-Foren um Unterstützung aus der Community gefragt und tatsächlich wurden wir dann bei der Besichtigung von einem hilfsbereiten Bremer begleitet, der uns mit viel Sachverstand zur Seite stand.
 
-Zu unserer Erleichterung gab es keine großen Überraschungen und wir konnten nur kleinere Mängel wie zum Beispiel die nicht plan aufliegende Herdplatten-Abdeckung feststellen. Lediglich die im Kaufvertrag gelisteten Voll-LED-Scheinwerfer haben sich bei der näheren Betrachtung als Standard-Scheinwerfer mit LED-Tagfahrlicht herausgestellt. Voll-LED wäre natürlich toll gewesen, aber mit der Minderung des Kaufpreises um den entsprechenden Posten waren wir auch einverstanden.
+Zu unserer Erleichterung gab es keine großen Überraschungen und wir konnten nur kleinere Mängel wie zum Beispiel die nicht plan aufliegende Herdplatten-Abdeckung feststellen. Die im Kaufvertrag gelisteten Voll-LED-Scheinwerfer haben sich bei der näheren Betrachtung als Standard-Scheinwerfer mit LED-Tagfahrlicht herausgestellt. Voll-LED wäre natürlich toll gewesen, aber mit der Minderung des Kaufpreises um den entsprechenden Posten waren wir auch einverstanden.
+
+## Abholung & Überführung
+Wenige Wochen nach der Besichtigung war es so weit: Am 1. April um 9 Uhr stand der Termin für die Abholung an. Ich war am Abend zuvor mit dem Zug angereist und die Nacht im [HafenTraum Indoor Hostel Camp](https://maps.app.goo.gl/UYBtQK9WPvTFFTgy7) verbracht. Dabei handelt es sich um eine eher ungewöhnliche, aber preiswerte Unterkunft, bei der man in alten Wohnwagen übernachtet, die in einer Halle stehen. Nicht unbedingt luxuriös, aber für eine Nacht vollkommen okay und schon auf halbem Wege vom Hauptbahnhof zum Händler.
+
+Die Kaufkosten hatte ich bereits in zwei Raten überwiesen, die zweite Rate erst wenige Tage vor der Abholung. 1.000 € hatte ich in bar dabei, um im Falle kleinerer Mängel noch etwas Verhandlungsspielraum zu haben. Die Papiere wurden mir nach Überweisung der ersten Rate zuschickt, so konnte ich zu Hause bequem die Nummernschilder ordern und das Fahrzeug anmelden und versichern.
+
+Da die fehlende Gummimanschette für den Durchstieg zum Aufstelldach vom Hersteller nicht rechtzeitig geliefert worden war, hatte ich im Vorfeld mit dem Händler per Mail vereinbart, 200 € zurückzuhalten, bis die Manschette nachgeliefert wird.
+
+Die Übergabe selbst war angenehm und professionell. Ich bekam eine gründliche Einweisung in die wichtigsten Funktionen des Fahrzeugs. Nach etwa zwei bis drei Stunden war alles erledigt und dann war ich tatsächlich allein unterwegs im eigenen Camper.
+
+Die Rückfahrt nach Oberbayern verlief erfreulich reibungslos. Der Wagen fuhr sich gut, die Technik funktionierte, und ich hatte das erste Mal das Gefühl, dass dieser Traum jetzt wirklich Realität geworden ist. Als ich spät abends in der heimischen Einfahrt ankam, war ich zwar müde aber sehr glücklich.
 
 
 # English (DeepL)
@@ -102,7 +113,7 @@ After extensive online research in January/February and a visit to the CMT 2025 
 - Length: 600cm
 - Seating and sleeping space for 4 people
 - Rear sleeping facilities for two people (no bunk bed)
-- Pop-up roof for two people
+- Pop-top roof with sleeping facilities for two people
 - Sanitary facilities in a separate room (i.e. no room solution or solution in the aisle)
 - Reversing camera
 - Navigation system/car radio with Apple/Android Carplay support
@@ -117,13 +128,24 @@ Now we had to act quickly. After several phone calls and emails with the dealer,
 ## Inspection
 During the carnival vacation in March, which we spent in Göttingen, we took a day trip to Bremen to inspect the camper.
 
-When buying a young, used camper from a dealer, it is usual for the vehicle to be checked again in the workshop before handover and any defects repaired. In addition, the buyer has the opportunity during the pre-inspection to look for defects themselves, which are then recorded in the purchase contract and rectified in the workshop inspection.
+When buying a young, used camper from a dealer, it is usual for the vehicle to be checked again in the workshop before handover and for any defects to be rectified. In addition, during the pre-inspection, the buyer has the opportunity to look for defects themselves, which are then recorded in the purchase contract and rectified in the workshop inspection.
 
-As I knew from experience that such workshop inspections are not always flawless, I wanted to be on the safe side and contacted a motorhome expert from the Bremen area via the [Caravaning-Gutachter Fachverband e.V.](https://cgf-ev.de/). In the end, however, I decided not to pay for the expert opinion, on the advice of the expert himself. The camper is still very young, is in good condition and still has a remaining warranty.
+As I knew from experience that such workshop inspections are not always flawless, I wanted to be on the safe side and contacted a motorhome expert from the Bremen area via the [Caravaning-Gutachter Fachverband e.V.](https://cgf-ev.de/). In the end, however, I decided not to pay for the expert opinion, on the advice of the expert himself. The camper was still very young, in good condition and still had a remaining warranty.
 
 Instead, I then asked for support from the community in several camper forums and we were actually accompanied on the inspection by a helpful man from Bremen who provided us with a great deal of expertise.
 
-To our relief, there were no major surprises and we only noticed minor defects such as the stove cover not lying flat. Only the full LED headlights listed in the purchase contract turned out to be standard headlights with LED daytime running lights on closer inspection. Full LED would have been great, of course, but we agreed to reduce the purchase price by the corresponding amount.
+To our relief, there were no major surprises and we only noticed minor defects such as the hob cover not lying flat. The full LED headlights listed in the purchase contract turned out to be standard headlights with LED daytime running lights on closer inspection. Full LED would have been great, of course, but we agreed to reduce the purchase price by the corresponding amount.
 
-# Gallery
+## Pick-up and transfer
+A few weeks after the viewing, the time had come: on April 1 at 9 a.m., the pick-up appointment was scheduled. I had arrived by train the evening before and spent the night in the [HafenTraum Indoor Hostel Camp](https://maps.app.goo.gl/UYBtQK9WPvTFFTgy7). This is a rather unusual but inexpensive accommodation where you spend the night in old caravans in a hall. Not necessarily luxurious, but perfectly okay for one night and halfway from the main station to the dealer.
+
+I had already paid the purchase price in two installments, the second installment only a few days before collection. I had €1,000 in cash with me so that I still had some room for negotiation in the event of minor defects. The papers were sent to me after the first installment had been transferred, so I was able to conveniently order the license plates at home and register and insure the vehicle.
+
+As the missing rubber sleeve for the access hatch to the pop-up roof had not been delivered on time by the manufacturer, I had agreed in advance with the dealer by email to hold back €200 until the sleeve was delivered.
+
+The handover itself was pleasant and professional. I was given a thorough briefing on the most important functions of the vehicle. After about two to three hours, everything was done and then I was actually on the road alone in my own camper.
+
+The return journey to Upper Bavaria went pleasantly smoothly. The car drove well, the technology worked, and for the first time I had the feeling that this dream had now really become a reality. When I arrived home late in the evening, I was tired but very happy.
+
+# Gallerie/Gallery
 {% include gallery %}
