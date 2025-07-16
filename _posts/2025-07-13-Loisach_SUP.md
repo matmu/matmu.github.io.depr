@@ -59,7 +59,7 @@ Nach der [Brücke der B472](https://maps.app.goo.gl/wntReoBLtymo83Ed8) wurde es 
 Die Strecke von Kochelsee bis Schönmühl ist eine landschaftlich abwechslungsreiche und technisch einfache SUP-Tour, ideal für einen halben Tag. Mit leichter Strömung, nur einer Umtragestelle und guter Erreichbarkeit eignet sie sich gut für Einsteiger und Familien.
 
 
-# English
+# English (DeepL)
 I recently went stand-up paddling (SUP) with my son on the Loisach. The route from Kochelsee to Schönmühl leads through a wonderfully tranquil moorland landscape, with the panorama of the Bavarian Alps in the background. Between moor meadows, forest and small gravel banks, the Loisach offers a varied nature experience on this section. The gentle current makes the tour ideal for relaxed half-day trips. Perfect for finding peace and quiet and experiencing a little adventure at the same time.
 
 ## Arrival and start
