@@ -41,7 +41,7 @@ Einkehrmöglichkeiten gibt es unterwegs nur wenige: Gleich zu Beginn (oder zum A
 Insgesamt war der Besuch der Schloss-Anlage mit ihren gepflegten Gärten und Brunnen ganz nett, aber nichts, was wir nochmal machen würden. Gestört hat uns, dass es nordseitig der Anlage keinen offiziellen Nebeneingang gibt, obwohl hier ein Rad- und Wanderweg vorbeiführt. Aber wer auf der Suche nach Ruhe und Natur ist, wird auf der Fahrradtour sehr viel Freude haben.
 
 
-# English (Deepl)
+# English (DeepL)
 We went on a 22km bike tour through the quiet and idyllic Graswang valley in the Ammergau Alps to [Schloss Linderhof](https://de.wikipedia.org/wiki/Schloss_Linderhof). The castle complex was built in the second half of the 19th century by Ludwig II of Bavaria and is named after the mountain stream of the same name [Linder](https://de.wikipedia.org/wiki/Linder_(Fluss)).
 
 We started our circular tour at the paid hikers' parking lot at the [Ettaler Mühle](https://maps.app.goo.gl/7Em79S6E1TCoWJdu9), coming from Ettal or Oberammergau just after the turn-off from the B23 main road into the Graswang valley. From there, it is around 11 km along the northern side of the valley to Linderhof Castle, the return journey is along the southern side.
@@ -59,7 +59,7 @@ There are only a few places to stop for refreshments along the way: Right at the
 Overall, the visit to the castle grounds with its well-kept gardens and fountains was quite nice, but not something we would do again. We were disturbed by the fact that there is no official side entrance on the north side of the grounds, even though a cycle and hiking path runs past here. But if you are looking for peace and nature, you will have a lot of fun on the bike tour.
 
 
-# Gallery
+# Gallery/Gallerie
 {% include gallery %}
 
 

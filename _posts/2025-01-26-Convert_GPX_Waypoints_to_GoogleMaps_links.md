@@ -35,6 +35,8 @@ Für ihre letzte Reise nach Schottland hat sich diese Methode als äußerst prak
 
 
 # English (DeepL)
+**Convert GPX waypoints into links for Google Maps and Apple Maps**
+
 With this [R script](https://github.com/matmu/gpx-toolbox/blob/main/gpx2maps_url.R), you can convert waypoints in GPX format into links to Google Maps or Apple Maps and have them written to an Excel file. My parents, who have been enthusiastic motorhome drivers for 10 years, use Excel files on their cell phone to navigate to the spots described in the guides [womo.de](https://www.womo.de/) on their motorhome trip.
 
 This year my parents will be traveling to Sicily in their motorhome. Google Maps will be used for navigation. For route planning, they are using a motorhome guide from https://www.womo.de/, which contains directions and waypoints that can be downloaded in GPX format.

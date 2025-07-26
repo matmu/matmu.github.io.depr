@@ -24,7 +24,11 @@ curl https://github.com/WanghongLin/miscellaneous/blob/master/tools/mcurl.sh >mc
 3. Done. Slices are merged automatically.
 
 
-## German
+## German (DeepL)
+**Schnelles Herunterladen von Dateien mit cURL**
+
+Wenn du eine große Datei über mehrere Verbindungen parallel herunterladen möchtest, könnte dieses Bash-Skript eine gute Option sein.
+
 Wir sind derzeit im Urlaub in Kroatien und ich habe vergessen, das Navigationssystem unseres Autos entsprechend zu aktualisieren. Daher wollte ich schnell ein passendes Kartenpaket von https://updateportal.skoda-auto.com für unser Amundsen-System in unserem Skoda Fabia NJ5 herunterladen. Das Herunterladen war zu Beginn sehr langsam und hätte aufgrund einer serverseitigen Begrenzung mindestens einen Tag gedauert. Und da ich zur Rezeption des Campingplatzes gehen musste, um einen geeigneten Wifi-Hotspot für den Download haben, musste eine schnellere Lösung her.
 
 Nachdem ich erfolglos einige dubiose Browser-Erweiterungen ausprobiert hatte, entschied ich mich schließlich für [dieses](https://github.com/WanghongLin/miscellaneous/blob/master/tools/mcurl.sh) Bash-Skript. Es lädt mehrere Teile (aka Slices) der Datei auf einmal herunter, wobei deren Anzahl vom Benutzer konfiguriert werden kann. Nach 15 Minuten war der Download beendet.
