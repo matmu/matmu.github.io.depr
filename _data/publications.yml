@@ -1,11 +1,18 @@
 
-- year: "Under review"
+- year: 2025
   publications:
     - authors: "Traeuble K., <b>Munz M.</b> et al."
       title: "Integrated single-cell atlas of human atherosclerotic plaques."
       biorxiv: 612431
       biorxiv_link: https://www.biorxiv.org/content/10.1101/2024.09.11.612431v1
+      journal: "Nature Communications."
       main_affiliation: Roche Diagnostics GmbH (Penzberg, Germany)
+    - authors: "Smit RAJ et al."
+      title: "Polygenic prediction of body mass index and obesity through the life course and across ancestries."
+      journal: "Nature Medicine."
+      main_affiliation: "Institute for Cardiogenetics, University of Lübeck (Germany)"
+      pmid: 40691366
+      doi: "10.1038/s41591-025-03827-z"
 
 - year: 2022
   publications:
