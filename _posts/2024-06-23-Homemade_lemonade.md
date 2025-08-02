@@ -31,17 +31,18 @@ gallery:
     title: Enjoy with crushed ice and mint.
 ---
 
+
 Eine selbstgemachte Zitronenlimonade für die besonders warmen Tage? Am besten eiskalt serviert mit frischer Minze und Crushed Ice. Viele Grüße gehen raus an alle, die im Dachgeschoss wohnen.
 
 
-## Deutsch
+# Deutsch
 
-### Zutaten
+## Zutaten
 * 4 unbehandelte (Bio-) Zitronen
 * 200g Zucker
 * 500ml Wasser
 
-### Zubereitung
+## Zubereitung
 1. Zitronen dünn schälen und darauf achten, dass man die weiße, bittere Unterhaut der Zitrone nicht mit schält.
 2. Zitronenschalen mit Wasser und Zucker 5 Minuten sprudelnd kochen
 3. Sirup abkühlen lassen und währenddessen Zitronensaft auspressen
@@ -49,15 +50,17 @@ Eine selbstgemachte Zitronenlimonade für die besonders warmen Tage? Am besten e
 5. Serviervorschlag: eiskalt (Sprudel, Sirup und Gläser kurze Zeit im Kühlfach abkühlen) mit Eiswürfel (idealerweiße Crushed Ice), frischer Minze und Sprudel (3:1 Mischung)
 
 
-## Englisch (DeepL)
+# Englisch (DeepL)
+**A homemade lemonade for particularly warm days? Best served ice cold with fresh mint and crushed ice. Best wishes to everyone who lives in the attic.**
+
 A homemade lemonade for particularly warm days? Best served ice cold with fresh mint and crushed ice. Best wishes to everyone who lives in the attic.
 
-### Ingredients
+## Ingredients
 * 4 untreated (organic) lemons
 * 200g sugar
 * 500ml water
 
-### Preparation
+## Preparation
 1. Peel the lemons thinly, taking care not to peel the white, bitter underside of the lemon.
 2. Boil the lemon peel with water and sugar for 5 minutes until bubbling
 3. Leave the syrup to cool while squeezing out the lemon juice
@@ -65,6 +68,6 @@ A homemade lemonade for particularly warm days? Best served ice cold with fresh 
 5. Serving suggestion: ice cold (cool the sparkling water, syrup and glasses briefly in the fridge) with ice cubes (ideally crushed ice), fresh mint and sparkling water (3:1 mixture)
 
 
-## Gallery
+# Gallerie/Gallery
 
 {% include gallery %}

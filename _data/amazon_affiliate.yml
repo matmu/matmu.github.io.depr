@@ -1,0 +1,18 @@
+---
+## {{ site.data.amazon_affiliate.pizza_ferrari.affiliate_link }}
+spruehkreide:
+  affiliate_link: https://amzn.to/4mlHVtJ
+  normal_link: https://www.amazon.de/DUPLI-COLOR-141232-COLOR-30-0478-metallic
+
+zitronensaeure:
+  affiliate_link: https://amzn.to/4msZmZF
+  normal_link: https://www.amazon.de/Zitronens%C3%A4ure-Lebensmittelqualit%C3%A4t-gentechnikfrei-S%C3%A4uerungsmittel-mituso
+
+
+aetherisches_oel:
+  affiliate_link: https://amzn.to/45ENop5
+  normal_link: https://www.amazon.de/Primavera-Zitrone-bio-10-Demeter
+
+pizza_ferrari:
+  affiliate_link: https://amzn.to/3IVk1XP
+  normal_link: https://www.amazon.de/G3Ferrari-G10006-Backofen-elektrisch-1200

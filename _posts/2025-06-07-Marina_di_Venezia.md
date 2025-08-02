@@ -31,7 +31,9 @@ gallery:
     title: "Zwischenstopp bei Innsbruck auf dem Weg nach Hause.<br/><br/>Stopover near Innsbruck on the way home."
 ---
 
+
 In den Osterferien war es endlich so weit: Unser erster Trip mit dem frisch gekauften Campervan stand an. Ziel war [Marina di Venezia](https://maps.app.goo.gl/m7XoyWfbJXpgtvnb7), einer der größten und bekanntesten Campingplätze Europas, direkt an der Adriaküste nahe Venedig. Ein idealer Ort für einen entspannten Auftakt in unser Vanlife-Reiseabenteuer mit Kind.
+
 
 # Deutsch
 
@@ -63,6 +65,8 @@ Der Campingplatz hat uns echt überzeugt – wir können uns gut vorstellen, noc
 
 
 # English (DeepL)
+**Our first vanlife vacation - With the campervan to Marina di Venezia**
+
 It was finally time for our first trip with our newly purchased campervan during the Easter vacations. Our destination was [Marina di Venezia](https://maps.app.goo.gl/m7XoyWfbJXpgtvnb7), one of the largest and best-known campsites in Europe, right on the Adriatic coast near Venice. An ideal place for a relaxed start to our vanlife travel adventure with a child.
 
 ## Cavallino-Treporti
@@ -94,6 +98,7 @@ The campsite really impressed us - we can well imagine coming here again. The st
 
 # Gallerie/Gallery
 {% include gallery %}
+
 
 # Komoot
 <iframe src="https://www.komoot.com/de-de/tour/2181677812/embed?share_token=a3K4VL6zPhw8uT9nfc9kKZZj9MeBu36DWx22legPaihy4Ftrtl&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>

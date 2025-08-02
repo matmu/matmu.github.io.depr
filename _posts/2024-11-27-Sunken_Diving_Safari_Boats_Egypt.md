@@ -67,6 +67,8 @@ While it is impossible to determine with certainty to what extent the pandemic p
 
 
 # Deutsch
+**Liste der gesunkenen Tauchboote in Ägypten**
+
 **Update März 2025:** Zum Zeitpunkt ihres Untergangs fuhr die M/Y Scuba Scene unter der Flagge von Dive Pro Liveaboard, nicht unter der von Golden Dolphin Safari World Fleet. Damit ist dies bereits das dritte Schiff von Dive Pro Liveaboard, das innerhalb von drei Jahren gesunken ist. Außerdem wurde ein neuer Abschnitt ergänzt, der einen möglichen Zusammenhang zwischen dem Anstieg der Vorfälle und der COVID-19-Pandemie thematisiert.
 <hr>
 

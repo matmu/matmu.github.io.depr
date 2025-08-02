@@ -22,6 +22,6 @@ gallery:
 ---
 
 
-It's been a few weeks already, but still the multi-pitch route [Dinosauri](/climbing/#dinosauri) in the Sarca valley/Italy is still very present to me.
+It's been a few weeks already, but still the multi-pitch route [Dinosauri](/climbing/#dinosauri) in the Sarca valley in Italy is still very present to me.
 
 {% include gallery %}

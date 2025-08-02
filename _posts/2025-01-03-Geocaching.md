@@ -8,6 +8,7 @@ toc_icon: "fas fa-file-alt"
 
 Mit dem Geocaching habe ich vor ein paar Jahren zusammen mit meinem Sohn angefangen, denn: Geocaching ist eine spannende Schatzsuche für Groß und Klein, die sich perfekt in den Alltag integrieren lässt.
 
+
 # Deutsch
 
 Alles, was man dafür benötigt, ist ein kostenloser Account auf [geocaching.com](geocaching.com) und eine der vielen Geocaching-Apps fürs Handy. Auf meinem IPhone verwende ich "L4C Pro" und "Geocaching". Beide Apps sind nicht komplett kostenlos ("In-App-Käufe"), können aber eingeschränkt verwendet werden, was für mich vollkommen ausreicht. Nachdem man sich mit seinem Geocaching-Account in eine der Apps eingeloggt hat, kann sich die Geocaches in der Umgebung anzeigen lassen und auf die Suche gehen. Geocaches sind kleine Behälter, die oft gut versteckt sind und manchmal auch Überraschungen enthalten. Wenn man einen Cache gefunden hat, kann man ein sogenanntes "Log" senden, um zu dokumentieren, dass man erfolgreich war.
@@ -25,6 +26,8 @@ Meine Geocaches befinden sich alle in Penzberg:
 
 
 # English (DeepL)
+
+**Geocaching is a great activity for young and old**
 
 I started geocaching a few years ago with my son, because: Geocaching is an exciting treasure hunt for young and old that can be perfectly integrated into everyday life.
 

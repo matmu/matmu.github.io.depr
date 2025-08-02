@@ -39,7 +39,9 @@ gallery:
     title: Die Mandeln zum abkühlen auf einem Backblech mit Backpapier verteilen. Fertig!
 ---
 
+
 Bei uns haben sich selbst gebrannte Mandeln in den letzten Jahren zu einem Standard-Schmaus in der Vorweihnachtszeit entwickelt. Sie schmecken viel besser als auf dem Weihnachtsmarkt, auch dank des höheren Mandelanteils. Aber Achtung, es ist eine geschickte Hand mit viel Ausdauer gefragt.
+
 
 # Deutsch
 Haushaltsübliche Kristallzucker Zucker schmilzt ab etwa 140 °C und beginnt sich zwischen zwischen 150 und 180 °C zu karamellisieren. Über 200 °C zersetzt er sich zu schwarzer Zuckerkohle und Wasser. Die Mandeln sind dann ungenießbar und müssen entsorgt werden. Daher müssen die Mandeln bei der Zubereitung fast die ganze Zeit gewendet werden und das minutenlang.
@@ -60,6 +62,8 @@ Den Zucker mit dem Zimt in eine unbeschichtete Pfanne geben. Ein wenig Wasser da
 
 
 # English (DeepL)
+**Make your own roasted almonds**
+
 In recent years, homemade roasted almonds have become a standard treat in the run-up to Christmas. They taste much better than at the Christmas market, also thanks to the higher almond content. But beware, a skilled hand with plenty of stamina is required.
 
 Conventional granulated sugar melts at around 140 °C and begins to caramelize between 150 and 180 °C. Above 200 °C, it decomposes into black charcoal and water. Above 200 °C, it decomposes into black charcoal and water. The almonds are then inedible and must be disposed of. This is why the almonds have to be turned almost all the time during preparation, and for several minutes at a time.
@@ -78,5 +82,6 @@ Place the sugar and cinnamon in an uncoated pan. Add a little water and stir. Se
 
 **Tip:** The remains of the caramelized sugar come off the pan and scraper very easily with hot water. Hot water from the tap is sufficient.
 
-# Gallery
+
+# Gallerie/Gallery
 {% include gallery %}

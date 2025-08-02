@@ -20,7 +20,7 @@ gallery:
 ---
 
 
-Ich habe mir im Sommer 2024 den Pizzaofen "[G3 Ferrari](https://amzn.to/40DiZVg)" zugelegt und den Tiefkühl-Pizzen den Rücken zugekehrt. Mein Schwiegervater hat mir exklusiven Zugang zu einem original italienisches Rezept für einen Pizzateig gegeben, welches er aus einer Italien-Reise mitgebracht hat. Seitdem verwandle ich mich gelegentlich zum Pizzabäcker und verwöhne meine Familie mit leckerem italienischen Essen.
+Ich habe mir im Sommer 2024 den Pizzaofen "[G3 Ferrari]({{ site.data.amazon_affiliate.pizza_ferrari.affiliate_link }})" zugelegt und den Tiefkühl-Pizzen den Rücken zugekehrt. Mein Schwiegervater hat mir exklusiven Zugang zu einem original italienisches Rezept für einen Pizzateig gegeben, welches er aus einer Italien-Reise mitgebracht hat. Seitdem verwandle ich mich gelegentlich zum Pizzabäcker und verwöhne meine Familie mit leckerem italienischen Essen.
 
 
 # Deutsch
@@ -53,11 +53,14 @@ Zudem sollte das Mehl fein gemahlen sein, um eine hohe Wasseraufnahme zu ermögl
 ## Pizza backen
 Dieser Schritt erfordert etwas mehr Handfertigkeit: das Formen des Pizzabodens. Falls noch die Übung fehlt, empfehle ich [hier](https://youtu.be/rSCzl_Kaz8Q?si=ZCGH0J8xTvzAGVPc) ein Video vom Weltmeister persönlich. Sobald der Pizzaboden fertig ist, kann mit belegen der Pizza begonnen werden.
 
-Die Temperatur beim Pizzabacken ist extrem wichtig. Hohe Temperaturen von 400–500°C, wie in einem Holzofen, sorgen dafür, dass die Pizza in wenigen Minuten eine knusprige, goldbraune Kruste bekommt, während der Teig innen luftig bleibt. Diese Temperatur lässt sich mit meinem Haushaltsbackofen nicht erreichen, weswegen ich mir den Pizza-Ofen "[G3 Ferrari](https://amzn.to/40DiZVg)" zulegt habe. Er funktioniert ähnlich wie ein Waffeleisen, mit zwei Heizspiralen oben und unten sowie einem Pizzastein dazwischen. Ich bin sehr zufrieden mit den Backergebnissen. Einziges Manko ist, dass immer nur eine Pizza gebacken werden kann (Dauer ca. 5 Minuten). Daher schneiden wir die Pizzen oft auf und genießen sie gemeinsam, während die nächste fertig gebacken wird.
+Die Temperatur beim Pizzabacken ist extrem wichtig. Hohe Temperaturen von 400–500°C, wie in einem Holzofen, sorgen dafür, dass die Pizza in wenigen Minuten eine knusprige, goldbraune Kruste bekommt, während der Teig innen luftig bleibt. Diese Temperatur lässt sich mit meinem Haushaltsbackofen nicht erreichen, weswegen ich mir den Pizza-Ofen "[G3 Ferrari]({{ site.data.amazon_affiliate.pizza_ferrari.affiliate_link }})" zulegt habe. Er funktioniert ähnlich wie ein Waffeleisen, mit zwei Heizspiralen oben und unten sowie einem Pizzastein dazwischen. Ich bin sehr zufrieden mit den Backergebnissen. Einziges Manko ist, dass immer nur eine Pizza gebacken werden kann (Dauer ca. 5 Minuten). Daher schneiden wir die Pizzen oft auf und genießen sie gemeinsam, während die nächste fertig gebacken wird.
 
 
 # English
-I bought the pizza oven "[G3 Ferrari](https://amzn.to/40DiZVg)" in the summer of 2024 and turned my back on frozen pizzas. My father-in-law gave me exclusive access to an original Italian recipe for pizza dough, which he brought back from a trip to Italy. Since then, I have occasionally turned into a pizza chef and spoil my family with delicious Italian food.
+
+**Pizza alla Italiana with my Ferrari**
+
+I bought the pizza oven "[G3 Ferrari]({{ site.data.amazon_affiliate.pizza_ferrari.affiliate_link }})" in the summer of 2024 and turned my back on frozen pizzas. My father-in-law gave me exclusive access to an original Italian recipe for pizza dough, which he brought back from a trip to Italy. Since then, I have occasionally turned into a pizza chef and spoil my family with delicious Italian food.
 
 
 ## Flour matters
@@ -86,7 +89,7 @@ The flour should also be finely ground to allow a high level of water absorption
 ## Baking pizza
 This step requires a little more manual dexterity: shaping the pizza base. If you are still lacking practice, I recommend [here](https://youtu.be/rSCzl_Kaz8Q?si=ZCGH0J8xTvzAGVPc) a video from the world champion himself. As soon as the pizza base is ready, you can start topping the pizza.
 
-The temperature is extremely important when baking pizza. High temperatures of 400-500°C, like in a wood-fired oven, ensure that the pizza gets a crispy, golden-brown crust in just a few minutes, while the dough remains airy on the inside. This temperature cannot be achieved with my domestic oven, which is why I bought the "[G3 Ferrari](https://amzn.to/40DiZVg)" pizza oven. It works in a similar way to a waffle iron, with two heating coils at the top and bottom and a pizza stone in between. I am very happy with the baking results. The only drawback is that only one pizza can be baked at a time (takes about 5 minutes). We therefore often cut up the pizzas and enjoy them together while the next one is being baked.
+The temperature is extremely important when baking pizza. High temperatures of 400-500°C, like in a wood-fired oven, ensure that the pizza gets a crispy, golden-brown crust in just a few minutes, while the dough remains airy on the inside. This temperature cannot be achieved with my domestic oven, which is why I bought the "[G3 Ferrari]({{ site.data.amazon_affiliate.pizza_ferrari.affiliate_link }})" pizza oven. It works in a similar way to a waffle iron, with two heating coils at the top and bottom and a pizza stone in between. I am very happy with the baking results. The only drawback is that only one pizza can be baked at a time (takes about 5 minutes). We therefore often cut up the pizzas and enjoy them together while the next one is being baked.
 
 
 # Gallerie/Gallery

@@ -6,9 +6,11 @@ toc_label: "Content"
 toc_icon: "fas fa-file-alt"
 ---
 
+
 If you want to download a large file using multiple connections at once, this bash script might be a good option.
 
-## English
+
+# English
 We are currently on vacation in Croatia and I forgot to update our cars' navigation system accordingly. Therefore, I quickly wanted to download an appropriate map bundle from https://updateportal.skoda-auto.com for our Amundsen system in our Skoda Fabia NJ5. Downloading seemed pretty slow with min. one day to finish due to server-side limitations. And because I had to go to the campgrounds' reception for a descent Wifi hotspot, I needed a faster solution.
 
 After unsuccessfully trying out some dubious browser extensions, I finally decided for [this](https://github.com/WanghongLin/miscellaneous/blob/master/tools/mcurl.sh) bash script. It downloads multiple file slices at once, whereby their number can be configured by the user. After 15 min the download was finished.
@@ -24,7 +26,7 @@ curl https://github.com/WanghongLin/miscellaneous/blob/master/tools/mcurl.sh >mc
 3. Done. Slices are merged automatically.
 
 
-## German (DeepL)
+# German (DeepL)
 **Schnelles Herunterladen von Dateien mit cURL**
 
 Wenn du eine große Datei über mehrere Verbindungen parallel herunterladen möchtest, könnte dieses Bash-Skript eine gute Option sein.

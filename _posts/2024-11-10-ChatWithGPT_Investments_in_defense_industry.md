@@ -9,6 +9,7 @@ toc_icon: "fas fa-file-alt"
 
 In this blog series, I will ask ChatGPT questions on a variety of topics, from world politics to everyday issues, to get concise summaries and answers.
 
+
 # English
 
 ## Disclaimer

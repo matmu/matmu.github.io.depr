@@ -23,7 +23,9 @@ gallery:
     title: "Im Sommer kann man hier wunderbar Baden. Es gibt eine sunbathing lawn und ein kleines Kiosk.<br/><br/>In summer you can enjoy a wonderful swim here. There is a sunbathing lawn and a small kiosk."
 ---
 
+
 Im Sommer kann man am nördlich von Penzberg an der Autobahn A95 gelegene und zu Iffeldorf gehörenden Eitzenberger Weiher dank der guten Wasserqualität und der Liegewiese einen wunderschönen Badetag verbringen. Um den See herum führt ein schöner Rundweg, von dem aus man den See und die Voralpen-Landschaft genießen kann.
+
 
 # Deutsch
 
@@ -37,6 +39,8 @@ Ein malerischer Rundweg führt um den Weiher und lädt zu Spaziergängen ein. En
 
 
 # English (Deepl)
+**Eitzenberger Weiher: the idyllic all-rounder for every season**
+
 In summer, you can spend a wonderful day swimming at the Eitzenberger Weiher, which is located north of Penzberg on the A95 highway and belongs to Iffeldorf, thanks to the good water quality and the sunbathing lawn. There is a beautiful circular path around the lake from which you can enjoy the lake and the foothills of the Alps.
 
 It is actually the Eitzenberger Weiher, a group of lakes consisting of a total of four ponds: an unnamed pond, sometimes also referred to as the Ponholzer Weiher, which drains into the Alter Weiher, and the Holzweiher, both of which feed the Neuer Weiher from different directions (source: [Wikipedia](https://de.wikipedia.org/wiki/Eitzenberger_Weiher)). Colloquially, the Old Pond is usually referred to as the Eitzenberger Weiher.
@@ -48,7 +52,7 @@ In contrast to the Osterseen lakes, the Eitzenberger Weiher is far less well-kno
 A picturesque circular path leads around the pond and invites you to take a stroll. There are footbridges and seats along the path from which you can enjoy the sun and the magnificent view of the lake to the full.
 
 
-# Gallery
+# Gallerie/Gallery
 {% include gallery %}
 
 

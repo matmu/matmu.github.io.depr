@@ -43,20 +43,25 @@ gallery:
     title: At the end, a little fresh wind on the giant swing.
 ---
 
+
 Der 2 km Rundweg um den Bad Bayersoiener See mit Balanciermöglichkeiten und Kreuzottern-Refugium ist ideal für Kinder. Parkmöglichkeiten vorhanden.
 
 
-## Deutsch
+# Deutsch
 Der Bad Bayersoiener See ist ein echtes Juwel und bietet ideale Bedingungen für einen gemütlichen Spaziergang. Der Rundweg um den See ist etwa 2 km lang und besonders Kinder finden abwechlungsreiche Balancier- und Erkundungsmöglichkeiten, die den Spaziergang zu einem Abenteuer machen. Auf der Nordseite befindet sich ein Refugium für Kreutzottern und mit ein wenig Glück kann man diese beim Sonnen beobachten. Parkmöglichkeiten direkt am See sind beim [Häuslbräu Kiosk](https://maps.app.goo.gl/M5wXqPhT7eC3FMsPA) vorhanden. Ansonsten kann man auch nordseitig parken, es führen Stichwege zum See.
 
 
-## English (DeepL)
+# English (DeepL)
+**Around the Bad Bayersoien lake**
+
+The 2 km circular trail around the Bad Bayersoien lake with balancing facilities and an adder refuge is ideal for children. Parking available.
+
 Bad Bayersoien Lake is a real gem and offers ideal conditions for a leisurely stroll. The circular path around the lake is around 2 km long and children in particular will find a variety of balancing and exploration opportunities that turn the walk into an adventure. On the north side of the lake there is a refuge for cross otters and with a bit of luck you can watch them sunbathing. Parking is available directly by the lake at the [Häuslbräu kiosk](https://maps.app.goo.gl/M5wXqPhT7eC3FMsPA). Alternatively, you can also park on the north side of the lake, as there are spur roads leading to the lake.
 
 
-## Gallery
+# Gallerie/Gallery
 {% include gallery %}
 
 
-## Komoot
+# Komoot
 <iframe src="https://www.komoot.com/de-de/tour/1655905542/embed?share_token=aoGGZAHuTRRQtCuqYSLO5XJIYfB04LXYeKr2VX62Sgq36XEO8B&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>

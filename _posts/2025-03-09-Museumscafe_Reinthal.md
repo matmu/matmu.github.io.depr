@@ -35,7 +35,10 @@ Nach etwa eineinhalb Stunden gemütlicher Fahrt mit Pause erreichten wir unser Z
 Diese Radtour hat uns allen viel Spaß gemacht. Sie ist nicht zu lang, sodass auch Kinder gut mithalten können, und bietet eine schöne Mischung aus Bewegung, Natur und Genuss. Wer eine entspannte Tour mit einem lohnenden Ziel sucht, dem kann ich diese Strecke nur empfehlen.
 
 
-# English (Deepl)
+# English (DeepL)
+
+**Cycle tour from Penzberg to the Reinthal museum café**
+
 On this glorious March weekend, my family and I took advantage of the mild and sunny weather and went on a bike ride: from Penzberg to [Museumscafé Reinthal](https://www.museumscafe-habach.de/). The route is around 11 to 12 kilometers long and leads along quiet side roads through the idyllic landscape of Upper Bavaria. It is also suitable for children and offers many opportunities for short breaks in nature.
 
 Our tour started at the train station in Penzberg and led us first along the railroad tracks towards Iffeldorf and then on through the forest and over the highway towards Antdorf. We particularly enjoyed the variety of the route. Apart from a short section in Habach, the route is exclusively on side roads or country lanes with little traffic. There are several short climbs, but these are easy to master for experienced cyclists. There are several benches along the route that are perfect for a short break.
@@ -45,7 +48,7 @@ After about an hour and a half's leisurely ride with a break, we reached our des
 We all had a lot of fun on this bike tour. It's not too long, so even children can keep up, and offers a nice mix of exercise, nature and enjoyment. If you are looking for a relaxed tour with a rewarding destination, I can only recommend this route.
 
 
-# Gallery
+# Gallerie/Gallery
 {% include gallery %}
 
 

@@ -6,9 +6,11 @@ toc_label: "Content"
 toc_icon: "fas fa-file-alt"
 ---
 
+
 In the summer of 2020, I bid farewell to academia and transitioned into the pharmaceutical industry, where I have been ever since. Prior to that, from 2015 onward, I spent around six years as a PhD student and postdoc at the university. During this time, a significant part of my work revolved around developing software tools to analyse large-scale biomedical datasets. Some of these tools evolved into larger projects that were eventually published as R packages in the Bioconductor respository ([MouseFM](https://www.bioconductor.org/packages/release/bioc/html/MouseFM.html) and [Qtlizer](https://bioconductor.org/packages/release/bioc/html/Qtlizer.html)) or made available as web-based services ([Genehopper](http://genehopper.de) and [Qtlizer](http://genehopper.de/qtlizer)).
 
-## English
+
+# English
 
 However, the maintenance of academic software is often associated with a short term expiration date, as there is rarely successor to take over the maintenance. Prof. Jeanette Erdmann ([†2023](https://iieglabletters.blogspot.com/2023/07/profound-void-in-our-hearts.html)), former head of the [Institute of Cardiogenetics](https://www.cardiogenetics-luebeck.de/) at the University of Lübeck, where I spent my PhD, generously covered the hosting costs for as long as required by the journals for software availability. This time, however, has passed already for while. Since then, I wrestled with the decision of what to do next.
 
@@ -20,7 +22,11 @@ Ultimately, I decided not to let go but instead to package the server-side softw
 
 Using Docker, I was able to move my services to a new virtual private server (VPS) with minimal effort and, in the process, cut hosting costs by two-thirds. Now, my tools continue to run with significantly lower maintenance overhead, ensuring that they remain available to the research community for the foreseeable future. I will miss the last occasional contact with the few faces I still know at the institute.
 
-## Deutsch
+
+# Deutsch
+
+**Von der Wissenschaft zur Langlebigkeit: Wie ich dafür sorge, dass meine Software weiterlebt**
+
 Im Sommer 2020 habe ich mich von akademischen Welt verabschiedet und bin in die pharmazeutische Industrie gewechselt, wo ich seither tätig bin. Zuvor war ich ab 2015 rund sechs Jahre lang als Doktorand und Postdoc im universitären Umfeld tätig. Während dieser Zeit drehte sich ein großer Teil meiner Arbeit um die Entwicklung von Software-Tools zur Analyse großer biomedizinischer Datenmengen. Einige dieser Tools entwickelten sich zu größeren Projekten, die schließlich als R-Pakete im Bioconductor-Repository veröffentlicht ([MouseFM](https://www.bioconductor.org/packages/release/bioc/html/MouseFM.html) und [Qtlizer](https://bioconductor.org/packages/release/bioc/html/Qtlizer.html)) oder als webbasierte Dienste zur Verfügung gestellt wurden ([Genehopper](http://genehopper.de) und [Qtlizer](http://genehopper.de/qtlizer)).
 
 Die Wartung von akademischer Software ist jedoch oft mit einem kurzfristigen Verfallsdatum verbunden, da es selten Nachfolger gibt, die die Pflege übernehmen. Prof. Jeanette Erdmann ([†2023](https://iieglabletters.blogspot.com/2023/07/profound-void-in-our-hearts.html)), ehemalige Leiterin des [Instituts für Kardiogenetik](https://www.cardiogenetics-luebeck.de/) an der Universität Lübeck, wo ich promoviert habe, übernahm netterweise die Hosting-Kosten so lange, wie es die Journals für die Verfügbarkeit der Software forderten. Diese Zeit ist allerdings schon seit einiger Zeit vorbei und seitdem habe ich mit der Entscheidung gerungen, wie es weitergehen soll.

@@ -83,5 +83,6 @@ After the [bridge on the B472](https://maps.app.goo.gl/wntReoBLtymo83Ed8), thing
 ## Conclusion
 The stretch from Kochelsee to Schönmühl is a scenically varied and technically easy SUP tour, ideal for half a day. With a gentle current, only one transfer point and good accessibility, it is ideal for beginners and families.
 
+
 # Gallerie/Gallery
 {% include gallery %}

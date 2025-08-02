@@ -31,7 +31,7 @@ gallery:
 Der [Große Ahornboden](https://maps.app.goo.gl/Ya4EgendrTocHQBS8) im Risstal, auf etwa 1200 Metern im nördlichen Karwendel gelegen, bietet im Herbst ein spektakuläres Naturschauspiel. Die bis zu 600 Jahre alten Ahornbäume erstrahlen in leuchtenden Gelb- und Rottönen, während die umliegenden Berggipfel eine beeindruckende Kulisse bilden.
 
 
-## Deutsch
+# Deutsch
 Obwohl das Tal in Österreich liegt, ist es nur von Deutschland aus zugänglich. Am Ende des Tals lockt das idyllische Almdorf Eng als Ausgangspunkt für zahlreiche Wanderungen – ein perfekter Ort für Familien und Naturfreunde.
 
 Dieses Jahr im Oktober entschieden wir uns für einen kinderfreundlichen 6km Rundweg, der von der Eng zur [Binsalm](https://maps.app.goo.gl/aKyG2chHrqeW7PSQ7) und über den Panoramaweg zurück ins Tal führte. Während weiter oben bereits Schnee lag, sorgte der schmelzende Schnee für einen matschigen, aber machbaren Abstieg. Die Tour war abwechslungsreich, nicht zu schwer und bot herrliche Ausblicke und Einkehrmöglichkeiten. Im Almdorf gibt es zudem einen schönen Spielplatz. Ein Ausflug, der Groß und Klein begeistert hat.
@@ -39,7 +39,9 @@ Dieses Jahr im Oktober entschieden wir uns für einen kinderfreundlichen 6km Run
 Es muss noch erwähnt werden, dass für die letzten 12km des Risstals, d.h. für die Weiterfahrt zum Ahornboden und in das Almdorf, eine Mautgebühr fällig ist, die dieses Jahr bei 7€ für einen PkW lag.
 
 
-## English
+# English
+**Ahornboden in fall - a paradise for nature lovers**
+
 The [Great Maple Plain (Großer Ahornboden)](https://maps.app.goo.gl/Ya4EgendrTocHQBS8) in the Risstal valley, located at approximately 1,200 meters in the northern Karwendel Mountains, offers a spectacular natural display in autumn. The centuries-old maple trees, some up to 600 years old, glow in vibrant shades of yellow and red, set against the backdrop of towering mountain peaks.
 
 Although the valley is in Austria, it can only be accessed from Germany. At the end of the valley lies the picturesque alpine village of Eng, a starting point for numerous hikes – an ideal destination for families and nature lovers alike.
@@ -49,9 +51,9 @@ This October, we chose a family-friendly circular 6km route from Eng to the [Bin
 It's worth noting that the final 12 kilometers of the Risstal, leading to the Great Maple Plain and the alpine village, are subject to a toll fee. This year, the fee was €7 for cars.
 
 
-## Gallery
+# Gallerie/Gallery
 {% include gallery %}
 
 
-## Komoot
+# Komoot
 <iframe src="https://www.komoot.com/de-de/tour/1898787077/embed?share_token=a1lQdr2LhXhg2XMCUOIhPTSiaOyQq9qhJUZWIKKxNrNPEzGkr4&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>

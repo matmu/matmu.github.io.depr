@@ -47,19 +47,21 @@ gallery:
 Der Felsenweg verläuft auf der bewaldeten und felsigeren Südwest-Seite des Kochelsees zwischen dem Walchenseekraftwerk und dem zu Schlehdorf gehörenden Raut. Ein kurzweilige Wanderung für groß und klein, die sich bestens mit einer Fahrt auf der Kochelseefähre verbinden lässt.
 
 
-## Deutch
+# Deutsch
 Der Weg verläuft erhöht und bietet tolle Ausblicke auf den Kochelsee und das Voralpenland. Wir sind den Weg schon einige mal begangen und nach eigener Erfahrung ist er nicht sehr stark frequentiert. Trotz der teilweise steiler abfallenden Hänge zum See ist der Weg durchaus für Kinder zu empfehlen. Entlang des Weges gibt einiges zu entdecken, wie zum Beispiel eine kleine Grotte. Man kann die Wanderung wunderbar mit einer Fahrt auf der [Kochelseefähre](https://motorschifffahrt-kochelsee.de/fahrplan-hauptsaison), zum Beispiel von Schlehdorf zurück an den nach Kochel verbinden. Als Startpunkt wählen wir meist das [Walchenseekraftwerk](https://www.uniper.energy/de/deutschland/kraftwerke-deutschland/kraftwerksgruppe-isar/walchenseekraftwerk), hier kann man kostenpflichtig parken und es gibt auch eine Fährstation in unmittelbarer Nähe.
 
 
-## English (DeepL)
+# English (DeepL)
+**The rocky path at Kochelsee**
+
 The rock trail runs along the wooded and rocky south-west side of Lake Kochel between the Walchensee power station and Raut, which belongs to Schlehdorf. An entertaining hike for young and old, which can be perfectly combined with a trip on the Kochelsee ferry.
 
 The path is elevated and offers great views of the Kochelsee and the foothills of the Alps. We have walked the path several times and in our own experience it is not very busy. Despite the sometimes steeper slopes down to the lake, the trail is definitely recommended for children. There is plenty to discover along the way, such as a small grotto. You can combine the hike with a trip on the [Kochelsee ferry](https://motorschifffahrt-kochelsee.de/fahrplan-hauptsaison), for example from Schlehdorf back to Kochel. We usually choose the [Walchensee power station](https://www.uniper.energy/de/deutschland/kraftwerke-deutschland/kraftwerksgruppe-isar/walchenseekraftwerk) as the starting point, where you can park for a fee and there is also a ferry station in the immediate vicinity.
 
 
-## Gallery
+# Gallerie/Gallery
 {% include gallery %}
 
 
-## Komoot
+# Komoot
 <iframe src="https://www.komoot.com/de-de/tour/1666231581/embed?share_token=axG6ztCGsGn675oe0JwIs01X7x7N8wB4QZwjvXsmuiIZJb2STj&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>

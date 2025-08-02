@@ -38,6 +38,7 @@ gallery:
 
 Einen eigenen Camper zu besitzen ist schon seit langem ein Traum von mir. Anhalten, wo es schön ist, und Europa auf eigene Faust entdecken. Der Traum wurde aber nie wirklich konkret, doch dann ging alles ganz schnell.
 
+
 # Deutsch
 
 ## Spare, spare, Häusle baue - wirklich so wichtig?
@@ -92,7 +93,6 @@ Die Rückfahrt nach Oberbayern verlief erfreulich reibungslos. Der Wagen fuhr si
 
 
 # English (DeepL)
-
 **The family adventure begins: our journey to our own camper van**
 
 Owning my own camper has been a dream of mine for a long time. To stop wherever it's nice and discover Europe on my own. The dream never really materialized, but then everything happened very quickly.
@@ -146,6 +146,7 @@ As the missing rubber sleeve for the access hatch to the pop-up roof had not bee
 The handover itself was pleasant and professional. I was given a thorough briefing on the most important functions of the vehicle. After about two to three hours, everything was done and then I was actually on the road alone in my own camper.
 
 The return journey to Upper Bavaria went pleasantly smoothly. The car drove well, the technology worked, and for the first time I had the feeling that this dream had now really become a reality. When I arrived home late in the evening, I was tired but very happy.
+
 
 # Gallerie/Gallery
 {% include gallery %}

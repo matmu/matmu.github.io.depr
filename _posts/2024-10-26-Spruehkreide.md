@@ -23,10 +23,12 @@ gallery:
     title: Die fertige Schablone nach Benutzung.
 ---
 
+
 Sprühkreide verhält sich wie normale Kreide: man kann auf der Straße malen, sie ist umweltfreundlich und bei Regen wird sie rückstandslos weggewaschen. Sprühkreide hat aber den Vorteil, dass sich damit wunderbar und schnell Schablonenbilder auftragen lassen.
 
-## Deutsch
-Wir wollten unbedingt Sprühkreide ausprobieren, deswegen haben wir uns, mein Sohn und ich, anlässlich von Halloween eine Kürbis-Schablone selbst angefertigt und uns im Internet Sprühkreide ([hier](https://amzn.to/3AqlEsp)) bestellt. Bevor es losgehen konnte, haben wir uns noch nach der rechtlichen Lage informiert und sind auf [diesen](https://fridaysforfuture.de/rechtliches-zu-spruehkreideaktionen/) Artikel von Fridays For Future gestoßen. Darin heißt es, dass Kreidemalen in Deutschland auf öffentlichen Straßen keine Sachbeschädigung ist.
+
+# Deutsch
+Wir wollten unbedingt Sprühkreide ausprobieren, deswegen haben wir uns, mein Sohn und ich, anlässlich von Halloween eine Kürbis-Schablone selbst angefertigt und uns im Internet Sprühkreide ([hier]({{ site.data.amazon_affiliate.spruehkreide.affiliate_link }})) bestellt. Bevor es losgehen konnte, haben wir uns noch nach der rechtlichen Lage informiert und sind auf [diesen](https://fridaysforfuture.de/rechtliches-zu-spruehkreideaktionen/) Artikel von Fridays For Future gestoßen. Darin heißt es, dass Kreidemalen in Deutschland auf öffentlichen Straßen keine Sachbeschädigung ist.
 
 Das genügte uns, um uns an die Arbeit zu machen. Wir waren so begeistert, dass wir das Schablonenbild gleich mehrmals auf die Straßen gesprüht haben. Wichtig ist, dass man senkrecht von oben sprüht, einmal über alle Stellen der Schablone genügt.
 
@@ -42,10 +44,12 @@ Wir planen zu Weihnachten weitere Schablonen anzufertigen. Es ist eine tolle Art
 **OM:** Ja, mittelgut. Nach dem Sprühen mit dem Wasserschlauch hat man es noch ein bisschen gesehen.
 
 
-## English (DeepL)
+# English (DeepL)
+**Chalk painting with spray chalk**
+
 Spray chalk behaves like normal chalk: you can paint on the street, it is environmentally friendly and it washes away without leaving any residue when it rains. The advantage of spray chalk, however, is that it can be used to apply stencils wonderfully and quickly.
 
-We really wanted to try out spray chalk, so my son and I made ourselves a pumpkin stencil for Halloween and ordered some spray chalk online ([here](https://amzn.to/3AqlEsp)). Before we got started, we checked the legal situation and came across [this](https://fridaysforfuture.de/rechtliches-zu-spruehkreideaktionen/) article by Fridays For Future. It states that chalk painting on public roads is not damage to property in Germany.
+We really wanted to try out spray chalk, so my son and I made ourselves a pumpkin stencil for Halloween and ordered some spray chalk online ([here]({{ site.data.amazon_affiliate.spruehkreide.affiliate_link }})). Before we got started, we checked the legal situation and came across [this](https://fridaysforfuture.de/rechtliches-zu-spruehkreideaktionen/) article by Fridays For Future. It states that chalk painting on public roads is not damage to property in Germany.
 
 That was enough for us to get to work. We were so enthusiastic that we sprayed the stencil image several times on the streets. It is important to spray vertically from above, once over all areas of the stencil is enough.
 
@@ -61,5 +65,5 @@ We are planning to make more stencils for Christmas. It's a great way to express
 **OM:** Yes, medium well. You could still see it a little after spraying with the water hose.
 
 
-## Gallery
+# Gallerie/Gallery
 {% include gallery %}

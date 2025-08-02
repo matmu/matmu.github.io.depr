@@ -35,7 +35,9 @@ gallery:
     title: "Noch kurz die Sitzposition testen und los geht die Fahrt.<br/><br/>A quick check of the seating position and off you go."
 ---
 
+
 Diese Rundwanderung in den Ammergauer Alpen verbindet beeindruckende Natur, kinderfreundliche Wege und spannende Erlebnisse. Von Unterammergau geht es durch die [Schleifmühlklamm](https://www.ammergauer-alpen.de/poi/schleifmuehlklamm) über den Kofelsteig zur [Kolbensattelhütte](https://maps.app.goo.gl/bYq8JxuVLnaN6xvH9). Ideal für Familien, die gerne draußen unterwegs sind.
+
 
 # Deutsch
 
@@ -62,7 +64,6 @@ Diese Rundwanderung durch die Ammergauer Alpen bietet eine abwechslungsreiche Ko
 
 
 # English (DeepL)
-
 **Exploring the Ammergau Alps Nature Park – Through Schleifmühlklamm to Kolbensattelhütte**
 
 This circular hike in the Ammergau Alps combines impressive nature, child-friendly trails and exciting experiences. From Unterammergau, it goes through the [Schleifmühlklamm](https://www.ammergauer-alpen.de/poi/schleifmuehlklamm) via the Kofelsteig to the [Kolbensattelhütte](https://maps.app.goo.gl/bYq8JxuVLnaN6xvH9). Ideal for families who enjoy being outdoors.
@@ -89,7 +90,7 @@ At the end, we stopped off at the [Eiscafé Paradiso](https://maps.app.goo.gl/S6
 This circular hike through the Ammergau Alps offers a varied mix of water, forest, scenic views, and adventure. Anyone planning a nature-filled and eventful day trip will find just what they're looking for here."
 
 
-# Gallery/Gallerie
+# Gallerie/Gallery
 {% include gallery %}
 
 

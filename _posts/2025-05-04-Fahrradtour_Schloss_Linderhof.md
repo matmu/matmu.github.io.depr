@@ -23,7 +23,9 @@ gallery:
     title: "Der Rückweg geht deutlich schneller, es geht meist leicht bergab.<br/><br/>The way back is much quicker, it is mostly slightly downhill."
 ---
 
+
 Wir haben eine 22km Fahrradtour durch das ruhige und idyllische Graswangtal Ammergauer Alpen zum [Schloss Linderhof](https://de.wikipedia.org/wiki/Schloss_Linderhof) gemacht. Die Schloss-Anlage wurde in der zweiten Hälfte des 19. Jahrhunderts durch Ludwig II. von Bayern erbaut und ist nach dem gleichnamigen Gebirgsbach [Linder](https://de.wikipedia.org/wiki/Linder_(Fluss)) benannt.
+
 
 # Deutsch
 Gestartet sind wir unsere Rundtour am kostenpflichtigen Wanderparkplatz bei der [Ettaler Mühle](https://maps.app.goo.gl/7Em79S6E1TCoWJdu9), von Ettal bzw. Oberammergau kommend gleich nach der Abzweigung von der Bundesstraße 23 ins Graswangtal. Von dort geht es rund 11 km auf der nördlichen Seite des Tals zum Schloss Linderhof, die Rückfahrt verläuft auf der südlichen Seite zurück.
@@ -42,6 +44,8 @@ Insgesamt war der Besuch der Schloss-Anlage mit ihren gepflegten Gärten und Bru
 
 
 # English (DeepL)
+**Cycle tour to Linderhof Castle**
+
 We went on a 22km bike tour through the quiet and idyllic Graswang valley in the Ammergau Alps to [Schloss Linderhof](https://de.wikipedia.org/wiki/Schloss_Linderhof). The castle complex was built in the second half of the 19th century by Ludwig II of Bavaria and is named after the mountain stream of the same name [Linder](https://de.wikipedia.org/wiki/Linder_(Fluss)).
 
 We started our circular tour at the paid hikers' parking lot at the [Ettaler Mühle](https://maps.app.goo.gl/7Em79S6E1TCoWJdu9), coming from Ettal or Oberammergau just after the turn-off from the B23 main road into the Graswang valley. From there, it is around 11 km along the northern side of the valley to Linderhof Castle, the return journey is along the southern side.
@@ -59,7 +63,7 @@ There are only a few places to stop for refreshments along the way: Right at the
 Overall, the visit to the castle grounds with its well-kept gardens and fountains was quite nice, but not something we would do again. We were disturbed by the fact that there is no official side entrance on the north side of the grounds, even though a cycle and hiking path runs past here. But if you are looking for peace and nature, you will have a lot of fun on the bike tour.
 
 
-# Gallery/Gallerie
+# Gallerie/Gallery
 {% include gallery %}
 
 

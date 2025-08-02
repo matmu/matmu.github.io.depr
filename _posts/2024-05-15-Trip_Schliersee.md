@@ -35,9 +35,11 @@ gallery:
     title: Der Baum hält sich wacker.
 ---
 
+
 Der Schliersee befindet sich im Landkreis Miesbach, ein paar Kilometer östlich vom Tegernsee. Am Ufer lässt es sich besonders mit Kindern wunderbar wandern und in den Sommermonaten verkehrt sogar täglich ein Linienschiff auf dem See.
 
-## Deutsch
+
+# Deutsch
 Ausgangspunkt unseres Tagesausflugs war der Bahnhof des [Ortes Schliersee](https://maps.app.goo.gl/nNx2Dt2vZdKNweZcA), der am nördlichen Ufer des gleichnamigen Sees gelegen ist. Am Bahnhof stehen Parkplätze gegen Gebühr zur Verfügung. Wir entschieden uns für eine Wanderung entlang der ruhigeren Westseite des Sees, die uns direkt am Ufer und entlang der Bahnschienen führte – ein deutlicher Vorteil gegenüber dem Weg entlang der Landstraße auf der Ostseite.
 
 Vorbei am Campingplatz erreichten wir die [Badestelle Westerberg](https://maps.app.goo.gl/ehqzXpQT7u19PHmt5), wo wir ein entspanntes Picknick und ein kurzes Bad genossen. Ein kurzes Stück weiter sind wir dann in der [Rixneralm](https://maps.app.goo.gl/ac5qZymSTcHufrZE9) eingekehrt, wo wir uns mit Erfrischungen und ein paar Weißwürste für den Nachwuchs für den Nachwuchs stärkten.
@@ -46,7 +48,12 @@ Danach ging es weiter nach Fischhausen am südlichen Ende des Sees, wo wir nach 
 
 Insgesamt ein lohnender Tagesausflug, den ich allen Familien wärmstens empfehlen kann!
 
-## English (DeepL)
+
+# English (DeepL)
+**Hiking, boat trip and summer tobogganing at Schliersee**
+
+Lake Schliersee is located in the district of Miesbach, a few kilometers east of Lake Tegernsee. The shore is a wonderful place to hike, especially with children, and in the summer months there is even a daily boat service on the lake.
+
 The starting point of our day trip was the train station in the [town of Schliersee](https://maps.app.goo.gl/nNx2Dt2vZdKNweZcA), which is located on the northern shore of the lake of the same name. Parking spaces are available at the station for a fee. We opted for a hike along the quieter western side of the lake, which took us directly along the shore and along the railroad tracks - a clear advantage over the path along the country road on the eastern side.
 
 Passing the campsite, we reached the [Westerberg bathing area](https://maps.app.goo.gl/ehqzXpQT7u19PHmt5), where we enjoyed a relaxed picnic and a quick dip. A short distance further on, we stopped off at the [Rixneralm](https://maps.app.goo.gl/ac5qZymSTcHufrZE9), where we fortified ourselves with refreshments and a few veal sausages for the youngsters.
@@ -55,8 +62,10 @@ We then continued to Fischhausen at the southern end of the lake, where we took 
 
 All in all, a worthwhile day trip that I can warmly recommend to all families!
 
-## Gallery
+
+# Gallerie/Gallery
 {% include gallery %}
 
-## Komoot
+
+# Komoot
 <iframe src="https://www.komoot.com/de-de/tour/1581116656/embed?share_token=aKJIFEwegEe6B4r5ZyrOx1LEj7o9IsutMC1Be1BIyqEVtXUNOZ&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
