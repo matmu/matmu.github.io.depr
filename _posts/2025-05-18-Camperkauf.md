@@ -1,6 +1,6 @@
 ---
 title: "Das Familienabenteuer beginnt: Unser Weg zum eigenen Kastenwagen-Camper"
-tags: Camper
+tags: Campervan
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"

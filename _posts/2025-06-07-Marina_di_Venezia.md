@@ -1,6 +1,6 @@
 ---
 title: Unser erster Vanlife-Urlaub – Mit dem Campervan nach Marina di Venezia
-tags: Camper
+tags: Campervan
 toc: true
 toc_label: "Content"
 toc_icon: "fas fa-file-alt"
