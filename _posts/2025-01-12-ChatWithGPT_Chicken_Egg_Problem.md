@@ -8,8 +8,8 @@ toc_icon: "fas fa-file-alt"
 
 Die Frage, ob das Huhn oder das Ei zuerst da war, ist ein Klassiker, der sowohl Philosophen als auch Wissenschaftler seit Jahrhunderten beschäftigt. Sie symbolisiert das Rätsel um Ursache und Wirkung und lädt dazu ein, über die Ursprünge des Lebens nachzudenken.
 
-<a href="/assets/images/Taccuino_Sanitatis_Chicken_Egg.jpg" class="image-popup" title="Illustration einer Frau, die Hühnereier sammelt, aus Tacuina sanitatis, 14. Jahrhundert.<br/><br/>Illustration of a woman collecting hens' eggs from Tacuina sanitatis, 14th century.">
-  <img class="align-center" src="/assets/images/Taccuino_Sanitatis_Chicken_Egg_250x269px.jpg" alt="Illustration einer Frau, die Hühnereier sammelt, aus Tacuina sanitatis, 14. Jahrhundert.<br/><br/>Illustration of a woman collecting hens' eggs from Tacuina sanitatis, 14th century.">
+<a href="/assets/images/Taccuino_Sanitatis_Chicken_Egg.jpg" class="image-popup" title="Illustration einer Frau, die Hühnereier sammelt, aus Tacuina sanitatis, 14. Jahrhundert.<br/><br/>Illustration of a woman collecting hens' eggs from Tacuina sanitatis, 14th century." alt="Illustration einer Frau, die Hühnereier sammelt, aus Tacuina sanitatis, 14. Jahrhundert.<br/><br/>Illustration of a woman collecting hens' eggs from Tacuina sanitatis, 14th century.">
+  <img class="align-center" src="/assets/images/Taccuino_Sanitatis_Chicken_Egg_250x269px.jpg" title="Illustration einer Frau, die Hühnereier sammelt, aus Tacuina sanitatis, 14. Jahrhundert.<br/><br/>Illustration of a woman collecting hens' eggs from Tacuina sanitatis, 14th century." alt="Illustration einer Frau, die Hühnereier sammelt, aus Tacuina sanitatis, 14. Jahrhundert.<br/><br/>Illustration of a woman collecting hens' eggs from Tacuina sanitatis, 14th century.">
 </a>
 
 

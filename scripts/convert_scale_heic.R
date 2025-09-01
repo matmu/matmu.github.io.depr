@@ -16,7 +16,7 @@ if(!dir.exists(input_dir)) stop("input_dir does not exist")
 if(!dir.exists(output_dir)) dir.create(output_dir)
 if(is.na(file_prefix) | nchar(file_prefix) == 0) stop("file_prefix needs to be specified")
 
-files = sort(list.files(path = input_dir, pattern = "\\.HEIC|\\.jpg|\\.jpeg", full.names = TRUE, ignore.case = TRUE))
+files = sort(list.files(path = input_dir, pattern = "\\.heic|\\.jpg|\\.jpeg|\\.png", full.names = TRUE, ignore.case = TRUE))
 
 res = lapply(1:length(files), function(i){
 
