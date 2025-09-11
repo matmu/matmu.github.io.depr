@@ -1,6 +1,16 @@
 ---
 - year: 2025
   routes:
+  - name: Südwestkante
+    wall: Großer Illing
+    country: Germany
+    region: Bavarian Prealps
+    partner: J.G.
+    date: 03.09.2025
+    UIAA: 6+
+    tags: Wiederholung
+    Notes: Erste paar Züge nass, an Schlingen hochgezogen
+    ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/6519773742
   - name: Porci con le ali
     date: 28.03.2025
     wall: Parete di San Paolo
@@ -62,6 +72,7 @@
       date: 29.06.2024
       UIAA: 6+
       tags: Onsight
+      Notes: Erste paar Züge nass, an Schlingen hochgezogen
       ref_thecrag: https://www.thecrag.com/de/klettern/germany/oberbayern/route/6519773742
     - name: Der kleine Prinz
       date: 24.06.2024
