@@ -1,9 +1,9 @@
 name: Scrape Google Scholar Stats
 
 on:
-  schedule:
-    - cron: '0 8 * * *' # Runs every day at 8 AM
-  workflow_dispatch:
+# schedule:
+#    - cron: '0 8 * * *' # Runs every day at 8 AM
+#  workflow_dispatch:
 #  push:
 #    branches:
 #      - master
